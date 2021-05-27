@@ -1,0 +1,353 @@
+- above
+    - above the house
+    - the starts above
+- abroad
+    - travel abroad
+    - go abroad for furtuer education
+- accept
+    - accept the one's advice
+    - I accept your decision
+- act
+    - think before you act
+    - we must act at once
+- advise
+    - the doctor advised a light diet
+    - please advise us of the date
+- awful
+    - have a awful dream
+- below
+    - the temperature is below zero
+    - live on the floor below
+- breathe
+    - humans breathe through their noses
+    - fish breathe through gills
+- brief
+    - make a brief introduction of yourself
+    - a brief report of the accident
+- bun
+    - you can not eat a bun in one bite
+- burn
+    - lights were burning in every room
+    - burn a candle
+- captain
+    - captain of the ship
+- cash
+    - pay in cash
+    - cash a cheque
+    - cash in one's checks
+- cassette
+    - a video cassette
+    - buy a new cassette player
+- cast
+    - the moon casts its light
+    - the casts are waiting on the stage
+- ceiling
+    - the water dropper from the ceiling
+- celebrate
+    - celebrate the brithday
+- cheat
+    - cheat her of her money
+    - cheat of exam
+- coast
+    - live by the coast
+    - the town is on the coast
+- correct
+    - find the correct answer
+    - make a correct decision
+- dare
+    - I don't dare to speak aloud
+    - they dared not look me in the face
+- deaf
+    - be deaf in one ear
+    - as deaf ad a stone
+    - be deaf to all advice
+- dialogue
+    - a dialogue between cultures
+    - the dialogue is light and friendly
+- dig
+    - dig a hole in the ground
+    - dig information out of books and reports
+- discuss
+    - discuss the world situation
+    - I wish to discuss with you
+- dismiss
+    - dismiss a trouble from one's mind
+    - be dismissed from school
+- disturb
+    - don't disturb the patient
+    - the news disturbed me very much
+- divide
+    - divide the room with a wall
+    - the road divides from here
+- doubt
+    - have no doubt of his ability
+    - rasie many doubts in my mind
+- drug
+    - the doctor has put me on drugs
+    - his mother was on grugs
+- duty
+    - have a sense of duty
+    - bear the duty
+- effort
+    - make every effort
+    - you can not succeed without effort
+- energy
+    - she is full of energy
+    - have energy to do exercise
+- excellent
+    - privode excellent service
+- except
+    - I like her except when she is angry
+    - everyone goes home except him
+- expect
+    - if you expect to fail, you will fail
+    - we expect him to carry out his promises
+- express
+    - we express our ideas by speech
+    - express one's love
+- fair
+    - build a fair society
+    - everyone must have a fair share
+- fault
+    - drunk driving is a serious fault
+- fear
+    - there is no ground for fear
+    - he has fear of dogs
+- feast
+    - a feast for eyes
+    - prepare the feast
+- forest
+    - walk through an ancient forest
+    - cut down a forest
+- fright
+    - shiver with fright
+- frontier
+    - frontier soldiers
+    - guard the frontier of a country
+- gate
+    - the driver pulled up at the gate
+    - a good gate at the football game
+- gesture
+    - make gesture
+    - he hestured that it was time to go
+- goat
+    - the goat is eating the grass
+- goose
+    - a goose is swimming on the lake
+- grasp
+    - grasp my hand
+    - grasp any chance to make money
+- guard
+    - be on one's guard
+    - the are soldiers on guard at the gate
+- guest
+    - welcome the coming guests
+    - greet the guests
+- honour
+    - we regard labor as a matter of honour
+    - chow honour to parents
+- humorous
+    - the movie is humorous and moving
+- illness
+    - get over the illness
+    - pretend illness
+- insist
+    - insist on leaving
+    - insist on keeping the play
+    - we insist upon an answer
+- intention
+    - infer the author's intention
+    - have no intention of getting married
+- iron
+    - the iron and steel industry
+- joy
+    - describe my joy in words
+    - taste the joy of success
+- justice
+    - justice is never absent
+    - have a sense of justice
+- lab
+    - turn in a lab report
+- lamb
+    - the lamb was caught by the wolf
+- lay
+    - lay his hand on my shoulder
+- mend
+    - my mother mends my shirt
+    - the patient is mending under his care
+- metal
+    - be made of metal
+    - heavy metal
+- mile
+    - the town is three miles away from here
+- nod
+    - notice one with a nod
+    - agree a plan with a nod
+- oral
+    - reach an oral agreement
+    - make an oral application
+- pacific
+    - the night is pacific
+    - a beautiful pacific place
+- passage
+    - read the passage and anwser the questions
+    - a secret underground passage
+- passenger
+    - pick up passenger
+    - the taxi driver dropped his passengers
+- patient
+    - he is patient with others
+    - visit the patient
+- present
+    - choose a nice birthday present
+    - consider the present situation
+- period
+    - this is his most difficult period
+    - have several long periods of work abroad
+- pilot
+    - the pilot landed the plane safely
+- plastic
+    - the raw material of plastics is oil
+- pleasant
+    - have a pleasant conversation
+- poet
+    - Li Bai is a poet
+- policy
+    - introduce a new policy
+    - change the foreign policy
+- praise
+    - praise him for his courage
+    - receive high praise from the students
+- prepare
+    - prepare for the final examination
+- prevent
+    - further treatment will prevent cancer from developing
+    - prevent the spread of a disease
+- prisoner
+    - sentence a prisoner to death
+- programme
+    - carry out the programme
+- proper
+    - he is  the proper person for the work
+    - come up with a proper answer
+- quarter
+    - in a querter of an hour
+- quilt
+    - fold the quilt
+    - kick the quilt off
+- raise
+    - he raised a hand in greeting
+    - raise standards of service
+- rather
+    - I'd rather go hungry than eat that
+- reach
+    - reach a high defree of art
+- recent
+    - the city gets better in recent years
+    - a recent fall-off in sales
+- recite
+    - recite the text in class
+- refuse
+    - refuse to come to the meeting
+- regard
+    - we all regraded him as hero
+    - regard him as a joke
+- regret
+    - if you go now, you'll regret it
+    - I regret that I can't come
+- remain
+    - remain a mystery
+    - remain unknow
+    - remain silent
+- reply
+    - reply to my letter as soon as possible
+- retire
+    - retire at age 60
+- riddle
+    - I will put a riddle to you 
+    - it still remians a riddle
+- risk
+    - risk a life to save the child
+- rush
+    - the children rushed out of the school
+- satisfy
+    - some people are very hard to satisfy
+- secret
+    - breathe a word of your secret
+    - your secret is safe with me
+- secretary
+    - bosses usually have secretaries
+- separtate
+    - the children sleep in separtate beds
+    - they lead separate lives
+- servant
+    - a servant of the people
+- sight
+    - lose your sight
+    - fall in love at first sight
+- silver
+    - this spoon is solid silver
+- soap
+    - wash your hands with soap
+- skill
+    - have the necessary skills for this job
+- social
+    - take part in social activities
+    - develop social skills
+- society
+    - build a fair society
+    - science does good to society
+- spread
+    - pervent the spread of a disease
+    - the news spread abroad
+- spy
+    - a goverment spy
+- standard
+    - rasie the standard of our life
+- steel
+    - most tools are made from steel
+- strict
+    - these rules are not too strict
+- supply
+    - supplies of food and water
+- tale
+    - tell a tale
+    - make up tale
+- thread
+    - the commom threads
+    - the thread of  a story
+- till
+    - wait till the proper time
+- tiny
+    - he had a tiny nose
+    - a tiny voice
+- tire
+    - the tire went flat
+    - to pump up a tire
+- trade
+    - trade helps industry to develop
+    - what is his trade
+- training
+    - basic training
+    - profreesional training
+- treasure
+    - a place in which treasure is kept
+    - I treasure up my father's dying words
+- unless
+    - I shall go unless it rains
+- vehicle
+    - keep a certain distance from other vehicles
+- wealth
+    - the road to wealth is wide open
+- wheat
+    - we need help to get the wheat in
+    - wheat is the raw material of beer
+- whether
+    - he asked whether he could help
+    - whether he comes or not
+- wide
+    - the word had been in wide use
+    - set wide communication around the world
+- wound
+    - clean the wound
+    - his wound closed up
