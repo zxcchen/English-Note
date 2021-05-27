@@ -1,0 +1,390 @@
+- actually
+    - - actually, it is not the case
+    - - I actually won the prize
+- alarm
+    - reise the alarm
+    - ring the alarm
+- apartment
+    - apartment for the single
+    - decorate an apartment
+- astronant
+    - Yang Liwei is an astronaut
+- attend
+    - attend a job interview
+    - all are expected to attend the lecture on time
+- award
+    - win the first award
+    - accept an award
+- away
+    - be far away from home
+    - the birth fly away
+- bakery
+    - the bakery smelled of milk
+    - a bakery chain
+- balcony
+    - the balcony faces south
+    - balcony seat
+- billiards
+    - billiards is my favorite game
+    - have a game of billiards
+- bin
+    - a rubbish bin
+- blanket
+    - take a blanket to keep warm
+    - be covered with a thick blanket of snow
+- blond
+    - a blond is attractive
+    - a sexy blond
+- bottle
+    - milk bottle
+    - bottle the fruit
+- blead
+    - spread bread with butter
+    - mark-up is her blead and butter
+- broadcast
+    - broadcast brief news
+    - listen to the broadcast
+- bury
+    - be buried alive
+    - bury the rubbish
+- careless
+    - make a careless mistake
+    - be careless about clothes
+- castle
+    - the princess lives in the castle
+    - defend the castle
+- cave
+    - humans used to live in caves
+    - hide in cave
+- chase
+    - a wild chase
+    - chase a girl
+- clerk
+    - band clerk
+    - work as a clerk in a store
+- clinic
+    - be treat at clinic
+- comb
+    - give me a wooden comb
+    - comb hair
+- contest
+    - challenge sb to a contest
+    - a mathematics contest
+- continent
+    - there are seven continent in the world
+- corridor
+    - my room is at the end of the corridor
+- costume
+    - national costume
+    - costume design
+- crack
+    - they cracked the window
+    - open the door a crack
+- curtain
+    - to pull the curtains
+    - draw the stage curtains
+- cycling
+    - cycling in the fast traffic road
+    - road cycling
+- december
+    - december is the last mouth of the year
+- desert
+    - camles can survive in the desert
+    - desert from one's post
+- detective
+    - Detective Conan is a Japan cartoon
+- dinosaur
+    - find dinosaur fossils
+    - this kind of computer has been a dinosaur
+    - industrial dinosaurs
+- disease
+    - a brave fight aganist the disease
+    - loneliness is a disease of modern people
+- dive
+    - dive deep into the sea
+    - a duck dives for a fish
+- dizzy
+    - feel dizzy
+    - be dizzy from lack of food
+- dumb
+    - dump waste into the sea
+- dustbin
+    - throw rubbish into dustbin
+    - put the waste in the dusbin
+- envelop
+    - put the letter in the envelop
+    - glue a stamp to the envelop
+- equipment
+    - the hosptital requires special equipment
+    - wear safety equipment
+- escalator
+    - ride the escalator up
+    - take the escalator
+- estate
+    - a country estate with a large house
+    - split up the estate
+- exercise
+    - exercise is helpful to our health
+    - swimming is a good form of exercise
+- experiment
+    - carry out the experiment
+    - they made the experiment all night
+- fairy
+    - the fairy in the forest
+- fence
+    - It's nerver too late to fix the fence
+- ferry
+    - cross the river by ferry
+    - a boat is used to ferry passengers
+- flight
+    - the flight was late
+    - attempt a flight around the world
+- flood
+    - the river is in flood
+    - fight a flood
+- folk
+    - paper cutting is a kind of folk art
+    - folk story
+- foreign
+    - master a foreign language
+    - change the foreign policy
+- forty
+    - there are forty people in class
+- fourth
+    - her fourth birthday
+- freckle
+    - some people are born to freckle on face
+- frightening
+    - his aspect is frighteening
+    - It was a frightenting experiences
+- furniture
+    - furniture store
+- gallery
+    - his picture were shown in the gallery
+- garage
+    - park the car in the garage
+- giant
+    - landing on the moon was a giant leap for marking
+    - a giant of the family
+- glow
+    - the firefiles were glowing
+    - a candle glows in the dark
+- goal
+    - a long-term goal
+    - acheive the goal of study
+- goddess
+    - they worship the goddess
+- gold
+    - gold is valuable
+- gorilla
+    - the gorilla is the largest of the apes
+- gravity
+    - the earth has gravity
+- harbour
+    - the ship sailed into harbour
+- hockey
+    - hockey is a game played on ice
+- hunt
+    - wolves hunt in groups
+- hurdle
+    - the weather is the biggest hurdle
+- janitor
+    - wait in the janitor's room
+    - the janitor locks up the building every night
+- kangaroo
+    - Australia is the hometown of hangaroo
+- knit
+    - knit a pair of gloves
+    - the broken bones has knit well
+- lamp
+    - the lamp lit up the room
+    - turn on the lamp
+- laugh
+    - I nearly died of laughing
+    - he tried to laugh away her doubts
+- march
+    - the army is marching to the battle
+- medal
+    - win a gold medal
+    - be awarded medal for courage
+- melt
+    - the sun melted the snow
+- merry
+    - Merry Christmas
+- messy
+    - his hair is long and messy
+- minus
+    - one minus one is zero
+- moose
+    - the moose looks like deer
+- mud
+    - the pond was full of mud
+- naughty
+    - this naughty boy is really troublesome
+- nest
+    - birds build nests in trees
+- november
+    - november is the eleventh month of the year
+- nut
+    - nut have hard shells
+- october
+    - Hallowween is in October
+- ostrich
+    - stop being an ostrich
+    - ostrich belief
+- oval
+    - the egg is oval in shape
+- oxford
+    - Oxford is an excellent university
+- parrot
+    - parrot can learn to talk
+    - talk like a parrot
+- pepper
+    - pepper is a kind of seasoning
+- physics
+    - in th field of physics
+- picnic
+    - have a lot of fun at the picnic
+- pill
+    - take pills with water
+- plate
+    - put the rice on the plate
+- present
+    - choose a nice birthday present
+    - consider the present situation
+- president
+    - the president recevied us
+    - a university president
+- principal
+    - grasp the principal contradiction
+    - store principal resource
+- prison
+    - throw him into prison
+    - he served eight years in prison
+- proud
+    - I am proud to be a Chinese
+- puppy
+    - a lovely puppy
+- purse
+    - steal a purse from the stop
+    - she has an empty purse
+- pyramid
+    - the pyramid are mong the seven wonders of the world
+- recipe
+    - the recipe for remaining young
+    - learn to cook following recipes
+- reptile
+    - snakes are reptile
+- rhyme
+    - the sone rhymes  well
+- rope
+    - grasp the rope and I'll pull you up
+    - we tied his feet together with a rope
+- rubber
+    - rubber gloves
+- sand
+    - I've got some sand in my eye
+- scenery
+    - the West Lake has beautiful scenery
+- science
+    - science dose good to society
+    - the future development of science
+- season
+    - spring is my favourite season
+- seesaw
+    - the children are playing at seesaw
+- sew
+    - sew money into a belt
+    - ser up the hold in clouthes
+- sharp
+    - the knite is sharp
+- shelf
+    - put the glass on the shelf
+- silk
+    - her skin was as smooth as silk
+    - silk sheets are the ultimate luxury
+- sink
+    - the stone sank into the water
+    - the prices are sinking
+- sleeve
+    - roll up our sleeves to work harder
+- slim
+    - models are slim
+    - she exercises every day to keep slim
+    - slim chaces of success
+- sly
+    - the fox is sly
+- splendid
+    - splendid mountains and rivers
+    - we won splendid victory
+    - that's a splendid idea
+- stadium
+    - go to the stadium to watch a football match
+- steal
+    - It's wrong to steal
+- stew
+    - the meat needs to stew for several hours
+- stocking
+    - Christmas stocking are filled woth presents
+- storm
+    - the storm swept the country
+    - the storm quieted down
+- stove
+    - keep warn by the stove
+- swan
+    - the ugly ducking turned into a white swan
+- sweets
+    - sweets food and drink contains a lot of sugar
+- sydney
+    - the capital of Italy is Sydney
+- syrup
+    - cough syrup
+- tap
+    - he tapped me on the shoulder
+    - tap on the window
+- tent
+    - set up the tent
+- term
+    - this term will begin on March 1st
+- theatre
+    - the trea rte was not quite full
+    - the treatre ticket
+- Tibet
+    - there are many nomads in Tibet
+- tin
+    - tin is kind of metal
+- tiring
+    - It's tiring working late like this
+- ton
+    - hundreds of tons of oil
+    - I have ton of thing to do
+- tongue
+    - burn one's tongue
+    - her mother tongue is English
+- traffic
+    - his job is to direct the traffic
+    - there was a traffic accident
+- trick
+    - trick or treat
+- trousers
+    - pull up the trousers
+- turkey
+    - Christmas turkey
+- van
+    - upload a van
+- vancouver
+    - a visit to Vancouver
+- vase
+    - the vase broke into pieces
+- vest
+    - wear a vest under the coat
+    - a life vest
+- vinegar
+    - dip the dumplings in the vinegar
+- wardrobe
+    - hang my suit in the wardrobe
+- whale
+    - the whale live in the sea
+    - whale are very large
+- wok
+    - spicy wok
