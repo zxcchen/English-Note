@@ -1,7 +1,7 @@
 aboard
     there are 200 passengers aboard
 abolish
-    bad customs should be ablished
+    bad customs should be abolished
 abortion
     a woman's right to abortion
     abortion is a controversial issue
@@ -1182,3 +1182,191 @@ dusty
     find a dusty book on the corner
 dynasty
     China has gone through many dynasties
+eager
+    the eagle is eager for the sky
+earn
+    work hard to earn money
+ecology
+    Darwin is well-known in ecology
+economy
+    accelerate the reform of economy
+edition
+    eletronic edition
+eggplant
+    eggplant is kind of vergetable
+electricity
+    pay attention to electricity safety
+elegant
+    this lady looks elegant
+    be an elegant lady
+embassy
+    apply for a visa at the embassy
+emergency
+    emergency exit
+    keep calm in an emergency
+emotion
+    he lost control of his emotions
+    be easily swayed by one's emotions
+emperor
+    The Emperpr's New Clothers
+empire
+    the empire on which the sun never sets
+    Ancient Roman Empire
+employ
+    employing child labor is illegal
+encouragement
+    thank you for your advice and encouragement
+endanger
+    endanger personal security
+    smoking will endanger your health
+endless
+    the universe is endless
+    life is filled with endless possibilities
+energetic
+    young people are energetic
+engage
+    engage sb in conversation
+    Yuan Longping was engaged in ariculture
+enlarge
+    enlarge the bundaries of trade
+    we should enlarge the vocabulary
+enquiry
+    114 provides telephone enquiry service
+enterprise
+    a man started the enterprise
+    abandon enterprise
+entertain
+    the clown entertained the audience
+    entertain the public
+entertainment
+    the cinema is a place of entertainment
+    entertainment industry
+enthusiastic
+    my friend was an enthusiastic musician
+    enthusiastic audience
+entire
+    protect the entire population
+    entire lifetime
+entrance
+    check in at the entrance
+envy
+    his good grades are the envy of me
+    poor people envy the rich
+equal
+    all man are equal
+    enjoy equal status
+equality
+    equality of men and women
+equip
+    equip chilren with good education
+    equip oneself for a long journey
+erupt
+    the volcano is about to erupt
+    the war will erupt at any time
+escape
+    eacape from prison
+    a narrow escape from death
+essay
+    English tests require writing short essays
+evaluate
+    evaluate his performance objecttively
+    evaluate people by their appearance
+eventually
+    justice will eventually defeat evil
+    our effort will eventually acquire success
+evident
+    his footprints were clearly evident
+    an evident mistake
+evolution
+    Darwin's theory of evolution
+    study the evolution of man
+exact
+    tell me your exact age
+    his answer is quite exact
+exactly
+    I know exactly how she felt
+    descriptbe exactly what happened
+exchange
+    exchange foreign currencies for RMB
+excitement
+    shiver with excitement
+exhibition
+    go to an atr exhibition
+exist
+    fish cannot exist without water
+existence
+    everything in existence is reasonable
+expand
+    expand one's vocabulary
+    heat makes things expand
+expectation
+    live yo to parents' expectation
+expedition
+    plan a mountain climbing expedition
+    jungle expedition
+expense
+    raising children is a big expense
+    expense dosen't correspond to income
+expert
+    be acknowledged as an expert
+explanation
+    give a reasonable explanation
+    his explanation agrees with the facts
+explicit
+    give explicit reasons for leaving
+explode
+    the car explodeed in fire
+    a bomb exploded in the crowd
+exploit
+    slave owners exploited slaves
+    exploit workers by working overtime
+explore
+    explore the mysteries of the universe
+expose
+    expose one's shortcoming
+expression
+    offfer no expression of regret
+    the expression of love
+extension
+    tools are extensions of human hands
+    build an extension to house
+extra
+    charge no extra money
+extraordinary
+    Beethoven is an extraodinary musician
+extreme
+    the heat in the desert was extreme
+    extreme climate
+extremely
+    the film is extremely good
+eyesight
+    do eye exercises to ptotenct your eyesight
+facial
+    apply a facial mask
+    pacial expression
+fade
+    the fog fades everything
+    time has fades love
+failure
+    failure is the mother of success
+fairly
+    the law treats everyone fairly
+fairness
+    embody the priciple of fairness
+    fairness and equality
+faith
+    Chinese people have faith in the government
+fancy
+    childhood fancy
+    be full of fancy
+fare
+    pay the taxi fare
+fasten
+    please fasten your seat belts
+favor
+    advances in technology fave the development of country
+feather
+    birds use feathers to keep warm
+feature
+    have an obvious feature
+    typical features
