@@ -1,1372 +1,3084 @@
-aboard
-    there are 200 passengers aboard
-abolish
-    bad customs should be abolished
-abortion
-    a woman's right to abortion
-    abortion is a controversial issue
-abrupt
-    an abrupt 180-degree turn
-    a abrupt change
-absence
-    repeated absences from school
-    the reason for his absence is his illness
-abstract
-    beauty is an abstract concept
-absurd
-    make an absurd assumption
-    what an absurd idea
-abundant
-    an abundant supply of fruit
-abuse
-    stop drug abuse
-    abuse child
-    abuse her position as headmaster
-accelerate
-    sunlight can accelerate the growth of plants
-    accelerate the reform of econnomy
-access
-    have free access to the library
-    enjoy equal access to opportunities
-accessible
-    the factory is only accessible to its workers
-    such information is really accessible
-accommodation
-    hotel accommodation is tight during holidays
-    reach an accommodation between both parties
-accompany
-    accompany a friend to the hospital
-    lightning was accompany with thunder
-accomplish
-    accomplish the vocabulary list of today
-    accomplish his plan
-accountant
-    accountant are good at maths
-    a firm of accountant
-accumulate
-    accumulate words through reading
-    accumulate a fortune by working hard
-accuracy
-    he pronounces words with great accuracy
-    doubt the accuracy of the data
-accurate
-    the weather forecast is accurate
-    give an accurate account of the even
-accuse
-    accuse him of cutting in line
-    she was accused of lying
-accustom
-    accustom myself to getting up early
-    accustom oneself to the new environment
-acid
-    a lemon is an acid fruit
-acknowledge
-    acknowledge the importance of learn English
-    acknowledge having been at fault
-acquaintance
-    have a nodding acquaintance with her
-acquire
-    acquire the bachelor's degree
-    acquire the good reputation
-acquisition
-    language acquisition  begins at an early age
-    the acquisition of a fortune
-acute
-    Africa has an acute shortage of water
-    suffer from an acute illness
-adapt
-    adapt to the wet and cold weather in the south
-    adapt a new job
-adaptation
-    make a quick adaptation to the new environment
-    improve your social adaptation
-addict
-    a drug addict
-addicted
-    be addicted to smoking
-adequate
-    an adequate supply of hot water
-    he is adequate to the job
-adjust
-    adjust the height of the chair
-    adjust yourself to new conditions
-adjustment
-    make an adjustment to the focus of the camera
-administration
-    Master of Business Administration
-    public administration
-admirable
-    his courage is admirable
-admission
-    he is thief by his own admission
-    gain admission to college
-admit
-    have the courage to admit a mistake
-adolescence
-    he grew tall during his adolescence
-adolescent
-    grow from a child into an adolescent
-adopt
-    adopt a suggestion
-    adopt a child
-adore
-    Romeo adores Juliet
-advance
-    no one can stop the advance of history
-advertise
-    advertise the new film on TV
-advocate
-    advocate quality education
-    advocate freedom of speech
-affair
-    mind your own affair
-    concern oneself with state affair
-affect
-    cold weather affects the crops
-    smoking affects your health
-    deeply affect the audience
-affectation
-    make an affectation of indifference
-    I'm disgusted with her affectation
-afterward
-    no long afterward
-agency
-    government agency
-    sell a house through an agency
-agenda
-    be place in the top of agenda
-    go on to the next item on the agenda
-agent
-    rent a house through an agent
-aggression
-    massive military aggression
-    an act of unprovoked aggression
-agricultural
-    China is a large agricultural country
-agriculture
-    farmers work in agriculture
-    traditional agriculture
-ahead
-    the long road ahead
-    you must decide a week ahead
-aid
-    seek the aid of the police
-    give first aid to her
-AIDS
-    learn a bit more about AIDS
-aim
-    he has a high aim in life
-    the all these films are aimed at youth
-aircraft
-    take the aircraft into flight
-    the aircraft circles in the sky
-alcohol
-    alcohol abuse
-    children are not allowed to touch alcohol
-alcoholic
-    children can't have alcoholic drink
-algebra
-    figure out the algebra problem
-allergic
-    be allergic to seafood
-alley
-    enter the long narrow alley
-    a blind allkey
-allocate
-    allocate new tasks
-    allocate money among the three
-allowance
-    housing allowance
-    a baggage allowance of 20 kilos
-along
-    take a walk along the river
-alongside
-    walk alongside Center Park
-alternative
-    prepare an alternative plan
-    have the alternative of riding or walking
-altitude
-    the plane is flying at a high altitude
-altogether
-    I altogether agree with you
-    altogether, things are looking up
-aluminium
-    aluminium is common kind of metal
-    Coke was the first to use aluminium cans
-amateur
-    as an amateur painter, I paint just for fun
-ambassador
-    be appointed ambassador to the United States
-ambassadress
-    ambassadress is a woman
-ambiguous
-    an ambiguous statement
-    a deliberately ambiguous reply
-ambition
-    a poor man has a long ambition
-amply
-    the supply of food is ample
-    XinJiang has ample sunshine
-amuse
-    amuse oneself with game
-amusement
-    amusement park
-ancestor
-    the ancestors of man are apes
-anecdote
-    The Classic of Mountains and Seas is full of anecdotes
-    childhood anecdote
-ankle
-    twist the ankle
-    swollen ankles
-anniversary
-    school anniversary
-announce
-    announce the winners list
-announcement
-    the announcement provoked protest
-annoy
-    his rude words annoyed me
-annual
-    birthday is an annual event
-Antarctic
-    Antartic penguin
-    explore the Antartic areas
-antique
-    collect antique
-anxiety
-    feel great anxiety about the future
-    relieve somebody from anxiety
-apart
-    I can't tell the twins apart
-    keep apart from the group
-apparent
-    starts are apparent on moonless nights
-    It's apparent that he can't be trusted
-appeal
-    cartoons appeal to children
-    appeal for aid
-    they are appealing for democracy
-    appeal against the judge's decision
-appearance
-    never judge by appearance
-appendix
-    there's an appendix at the end of the book
-appetite
-    a fever reduces the appetite
-    pick up one's appetite
-applaud
-    children applauded to welcome their new teacher
-    applaud his courage
-applicant
-    the applicant is waiting for an interview
-application
-    job application
-    develop an English learning application
-apply
-    apply for jobs via the Interment
-    there rules don't always apply
-appoint
-    be appointed as monitor of the class
-appointment
-    make an appointment to see a doctor
-    be punctual for an appointment
-appreciate
-    appreciate works of art
-    appreciate your concern
-appreciation
-    have a good appreation of music
-approach
-    the train is approach the station
-    look forward to the approach of spring
-approval
-    serveral people nodded in approval
-    submit a plan for approval
-approve
-    approve the budget
-    I approve of his choice
-approximately
-    π is approximately 3.14
-apron
-    wear a clean apron
-arbitrary
-    decisions made with coins are arbitrary
-    an arbitrary ruler
-arch
-    arch bridge
-architect
-    an architect designs buildings
-archiecture
-    be interested in ancient archiecture
-    study architecture at university
-Arctic
-    polar bear live the Arctic Circle
-argue
-    argue in a very loud voice
-argument
-    get a blow in the argument
-    confute an argument
-arise
-    an emergency arise
-    problems arose due to the lack of communication
-arithmetic
-    In a sense, arithmetic is a language
-arrange
-    arrange the books on the selves
-arrangement
-    courage arrangement
-    mess up the travel arrangement
-arrest
-    the police arrested the thief
-    arrest the spread of the fire
-    arrest one's attention
-artificial
-    artificial intelligence
-    wear an artificial smile
-ash
-    the house was burnt to ashes
-ashamed
-    be ashamed of making mistakes
-    be ashamed to ask a favor
-aspect
-    look at every aspect of the problem
-    take on an entirely new aspect
-assess
-    assess the situation
-assessment
-    risk assessment
-assist
-    dictionary will assist you to read
-    assist th bilnd across the street
-assistance
-    provide assistance
-    decline other's assitance
-assistant
-    file transfer assistant
-    personal assistant
-associate
-    people associate roses with love
-    a business associate
-association
-    consumers' association
-    be in close association with people
-astonish
-    her reply astonished me
-astronomer
-    astronomer love to observe the stars
-athletic
-    an athetic club
-atmosphere
-    the atmosphere maintains the temperature of the earth
-    pollute the atmosphere
-atom
-    the atom is the basic unit of matter
-attack
-    attack the enemy
-attain
-    attain the ideal weight
-    attain success through hard work
-attempt
-    the prisoner attempted an escape, but failed
-attitude
-    hold a positive attitude toward life
-attract
-    the West Lake attracts many tourists
-attraction
-    resist the attraction of money
-    the attraction of the moon for the earth
-attractive
-    cities are attractive to young people
-audience
-    impress the audience
-authentic
-    she has authentic charm whereas most people simply have nice manners
-    they have to look authentic
-authority
-    a recognized academic authority
-autonomous
-    XinJiang is an autonomous region of China
-avenue
-    the avenue is crowded with cars
-    hard work is an avenue to success
-average
-    reach the average income
-    schools need to look at the average class score
-avoid
-    avoid making mistakes
-aware
-    be aware of one's own disadvantages
-awesome
-    the show was just awesome
-    they had an awesome task ahead
-awkward
-    mistaking someone is awkward
-    handle an awkward situation
-bachelor
-    golden bachelor
-    a bachelor apartment
-backward
-    take two steps backward
-    she went without a backward glance
-bacon
-    bacon hung all over the balcony
-bacterium
-    most diseases are caused by bacterium
-bake
-    bake cookies in the oven
-ballet
-    Swan Lake is ballet
-ban
-    smoking is banned is gas stations
-    lift a ban on political parties
-bandage
-    put a bandage to stop bleeding
-banquet
-    farewell banquest
-braber
-    the braber gave me a haircur
-bare
-    fight the enemy with bare hands
-bargain
-    our shop refuses to bargain
-    sell at a bargain price
-bark
-    the dog bark
-barrier
-    put a barrier across the road
-    get over the language barrier
-basement
-    the basement is dark
-basin
-    a basin of cold water
-    live in Sichuan Basin
-basis
-    a firm basis
-    provide a sound basis for sth
-bath
-    take a bath after exercise
-bathe
-    don't bathe too soon after eating
-bathtub
-    run water into bathtub
-    bathe in bathtub
-battery
-    the battery ran out of power
-bay
-    a beautiful and quiet bay
-beancurd
-    he like food made of beancurd
-beard
-    shave the beard
-    Santa Claus has a long white beard
-beast
-    Beauty and the Beast
-bee
-    as busy as bee
-belong
-    the pandas belong to China
-bend
-    the trees band before the wind
-    the branch began to bend
-beneath
-    the road lay beneath the snow
-    the boat sank beneath the waves
-beneficial
-    brushing is beneficial to your teeth
-    subshine is beneficial to plants
-benefit
-    exercise brings benefits to our body
-bent
-    grandpa has a bent back
-besides
-    I don't want to go, besides, it's raining
-    he has two sons and two daughters besides
-betray
-    true friends never betray each other
-bid
-    bid for a new building
-    make a bid to pass the examination
-biochemistry
-    her specialty is biochemistry
-biography
-    a brief biography
-biology
-    How far is human nature determined by biology?
-bishop
-    he is appointed as a bishop
-blame
-    blame her for breaking the vase
-blank
-    my mind went blank when I saw the test paper
-bleed
-    mu heart bleeds for you
-blind
-    be blind in both eyes
-    don't do build attempts
-bomb
-    the bomb exploded in a flash
-bond
-    form a spiritual bond
-    common interests formed a bond
-bonus
-    bonuses are tied to performance
-boom
-    a boom year for business
-booth
-    street phone booth
-botanical
-    botanical illustration
-    botanical garden
-botany
-    major in botany
-bound
-    a proud army is bound to lose
-    be bound by contract
-boundary
-    don't cross the boundary at will
-bow
-    the Japanese often bow as a greeting
-boycott
-    boycott fake products
-    press a boycott on racism
-brake
-    The cause of the accident was that the brake don't work 
-brand
-    HuaWei is a world-famous Chinese brand
-bravery
-    admire his brevery and strength
-breakthrough
-    an important breakthrough
-breast
-    the mother held her child to her breast
-breeze
-    a gentle breeze blew
-    a cool summer breeze
-brewery
-    the beer is brewed at the brewery
-brick
-    burn brick
-    a house build of bricks
-bride
-    toast the bride and bridegroom
-bridegroom
-    the bridegroom wore a suit
-broad
-    a great river flows with broad waves
-    a broad range of interests
-brochure
-    travel brochure
-    hand out brochures in the street
-broom
-    aweep the floor with broom
-buchet
-    a buchet of paint
-    it rains in buckets
-buddhism
-    practise buddhism in human world
-    have a strong belief in Buddhism
-budget
-    the budget is tight
-    budget your time
-buffet
-    a buffet breakfast
-bully
-    bully the small by being big
-    be bullied at school
-bunch
-    a bunch of friends from college
-    give a bunch of flowers to his girlfriend
-bungalow
-    a bungalow does not have an upstairs
-burden
-    a camel can bear a burden
-    I don't want to be a burden to you
-bureaucratic
-    get rid of bureaucratic preactices
-    bureaucratic battles
-burglar
-    burglar alarm
-    burglars broke into their home
-burst
-    pipes often burst in cold weather
-    the tiver burst its banks
-    burst into loud laughs
-butcher
-    buy meat at the butcher's
-cab
-    a cab driver
-cafeteria
-    have a supper in the cafeteria
-calm
-    keep calm
-    he answered with a calm vioce
-campaign
-    a compaign against racism
-    a nationwide anti-smoking campaign
-candidate
-    the most likely candidate for president
-canteen
-    go to the canteen for lunch
-cansule
-    take one capsule every four hours
-captrue
-    the fishes are captured in nets
-    captured over 300 enemy soldiers
-carbon
-    plants take in carbin dioxide
-career
-    career planning of college students
-    ruin one's career
-carpenter
-    the carpenter made a chair our of wood
-carpet
-    beat dust out od the carpet
-carriage
-    non-smoking carriage
-    smoke in the railway carriage
-carrier
-    files are carriers of disaseas
-cart
-    the hours pulla a cart
-casual
-    a casual chat
-    he took some casual jobs
-catalog
-    look through a catalog
-    the system catalog
-catastrophe
-    war would ba a catastrophe
-category
-    there are different categories of book in the library
-    thay fall intodirrerent categories
-cater
-    cater to another's pleasure
-cathedral
-    visit a cathedral
-    construct a great cathedral
-    remodel the old cathedral
-cattle
-    the cattle were eating grass
-caution
-    he is a man of caution
-celebration
-    he success was a cause for celebration
-cell
-    cell wall
-    cancer cells spread
-cellar
-    store some vegetables in the cellar during the winter
-centigrade
-    water freezes at zero degree centigrade
-centimetre
-    one meter is equal to 100 centimeters
-central
-    the central idea of the article
-ceremony
-    lack of ceremony caused quarrels
-    Tian'anmen Square holds a flag-raising ceremony daily
-certificate
-    a birth cerificate
-challenging
-    rock climbing is a challenging sport
-champagne
-    open a bottle of champagne to celebrate
-chaos
-    the typhoon left chaos behind it
-character
-    a man of firm character
-    the character in the novel
-characterise
-    characterise the heroine as passionate
-    characterise Chinese chlture
-charge
-    charge no extra money
-    this service is free of charge
-cheek
-    mon kissed me on the cheek
-    girl with rosy cheeks
-cheerful
-    keep cheerful spirits
-    restaurants have chefs
-chemical
-    chemical reaction
-    ban the use of chemical weapons
-chemist
-    a chemist can make out a medicine
-cheque
-    chash a cheque
-    pay by cheque
-chick
-    the chick broke through the shell and struggled out
-chief
-    the chief engineer
-chimney
-    a factory chimney
-choir
-    the choir sings chants every Christmas
-choke
-    choke sb to choke
-    be choked by smoke
-chorus
-    a female chorus
-christian
-    Christmas is a Christian festival
-    Christain belif
-    a religious Christian
-circuit
-    break an electric circuit
-    a circuit diagram
-circulate
-    open the window to circulate air
-circumstance
-    create a good curcumstance for students
-    it depends on circumstances
-    in favorable circumstance
-civilization
-    Chine is one of the four ancient civilizations
-claim
-    the suspect claimed that he was innocent
-    claim one's right
-clarify
-    clarify one's position
-    clarify the meaning
-clay
-    make a bowl out of clay
-cleaner
-    we need a part-time cleaner
-    the cleaner dumped all the rubbish into a big bin
-climate
-    the desert has dry climate
-    social climate
-cloth
-    wipe the window with a cloth
-clue
-    discover an impartant clue
-clumsy
-    a clumsy gesture
-    he is clumsy in speaking
-cock
-    a cock cannot lay eggs
-coincidence
-    all similarities are conincidences
-    a coincidence of interests
-collar
-    I turned up my collar against the wind
-colleague
-    getting on well with colleagues is important
-collision
-    a collision between two cars
-    the collision of two generations
-    bring him into collision with the law
-combine
-    combine theory with practice
-    combine work and play
-comma
-    leave out a comma
-commander
-    the commander shouted orders
-coment
-    don't hesitate to make comments
-    do you have any comments about that
-commercial
-    the commercial future of the company looks promising
-commitment
-    make a commitment
-committee
-    a committee consisting of ten members
-    the committee refused his advice
-communism
-    communism is based on Marxism
-    out ultimate aim is to realize communism
-companion
-    dogs are man's faithful companious
-comparison
-    make a com parison of
-compass
-    the compass needle point south
-compensate
-    compensate his loss with money
-    compensate for a shortcoming
-competence
-    language competence
-    develop social competence
-complex
-    the human brain is complex
-comprehension
-    advanced mathmatics is beyound my comprehension
-compromise
-    I would rather die than compromise
-    compromise my principle
-compulsory
-    nine-year complusory education
-comrade
-    we should learn from Comrade Lei Feng
-    we should be good comrades of the Party
-concentrate
-    concentrate on one's things
-concept
-    New Concept English
-    mathematics has many abstract concepts
-concern
-    don't concern sb
-    the health problem concerns everyone
-conclude
-    conslude from a conversation
-    I must conclude that you are wrong
-conclusion
-    deduce a conclusion
-    draw a wrong conclusion
-concrete
-    take a concrete example
-    make a concrete analysis of concrete problems
-condemn
-    the public condemn the murderer
-    condemn him to death for murder
-conduct
-    criminal conduct
-    be dissatisfied with her conduct
-conductor
-    a bus conductor
-confidence
-    establish one's confidence
-    lack confidence in oneself
-confident
-    we are confident of victory
-confidential
-    pass confidential letters in Morse code
-    don't be too confidential with others
-comfirm
-    confirm the predction
-conflict
-    conflict drives the story
-confuse
-    succeed in confusing the enemy
-    confuse blake and white
-conscience
-    I couldn't sleep with a guilty conscience
-    act according to your conscience
-consensus
-    reach a consensus about the mastter
-    social consensus
-consequence
-    It terrified me to contemplate the consequence of your action
-    he studied hard, and in consequence he passed the exam
-conservative
-    the girl dress in a conservative style
-    according to a conservative estimate
-consider
-    consider suggestion
-    consider carefully before doing anything
-considerate
-    offer considerate service
-    be considerate if others
-consist
-    a week consists of seven days
-    happiness consists in contentment
-constant
-    a constant speed
-    the fright keeps food at a constant temperature
-constitution
-    the consitution is the fundamental law
-consult
-    consult a lawyer
-    consult a dictionary
-consultant
-    a consultant firm
-    act as a business consultant
-consume
-    consume fat
-    study consumes all their time
-contain
-    sea water contain salt
-contemporary
-    the study of contemproary art
-    he is a contemproary of mine
-contradict
-    contradict oneself
-    the two stories contradict each other
-contradictory
-    be contrandictory to common sence
-    self-contradictory concept
-contrary
-    'hot' and 'cold' are contrary terms
-    on the contrary
-contrast
-    black and white shows a clear contrast
-    form a striking contrast with the former
-contribute
-    contribute to the country
-    contribute one's share
-contribution
-    make contribution to the country
-    a sighificant contribution to science
-controversial
-    stay away from controversial topics
-    a controversial incident
-conventional
-    exceed conventional rules
-    use a conventional method to do something
-convey
-    convey my apologies to you
-    body language can convey feelings
-convince
-    convince public
-    convince by argument
-coral
-    there are many corals in the sea
-    wear a coral necklace
-corporation
-    a finance corporation
-correction
-    make some correction to my homework
-    I accept correction with plearsure
-correspond
-    correspond to the sample
-corrupt
-    the corrupt late Qing government
-cosy
-    live in a cosy little room
-cottage
-    live in a tiny cottage
-counter
-    pay at the counter
-    an electronic counter
-court
-    the civil courts
-    Superme People's Court
-courtyard
-    play in the courtyard
-cozy
-    cozy chair
-    cozy surroundings
-crash
-    the plane crashed
-creature
-    pobots are wonderful creatures
-    humans are the creature of th God, according to the Bible
-credit
-    apply for a credit card
-    credit crisis
-crew
-    the train has a crew of 20
-crime
-    murder is a serious crime
-criminal
-    murder is a criminal act
-crisis
-    the 2008 financial crisis
-criterion
-    practice is the sole criterion for testing truch
-    a good criterion of happiness in life
-crop
-    rice is the main crop
-crowd
-    the whole crowd joined in
-    crowd into a train
-cruelty
-    an act of extreme cruelty
-    condemn cruelty to children
-cube
-    a cube has six sides
-    cube shape
-cubic
-    cubic metres
-    boxes are cubic
-cuisine
-    tradtional Chinese cuisine
-cultural
-    cultural difference are played down
-cure
-    AIDS cannot be cured yet
-curious
-    the boy was curious about everything
-currency
-    paper currency
-    exchange foreign currency for RMB
-curriculum
-    the same national curriculum
-    the curriculum schedule
-cushion
-    the color of the cushions matches the sofa
-custom
-    exchanging gifts is a Christmas custom
-customer
-    the customer is king
-customs
-    pay customs duty
-    to reduce customs duyt
-cycle
-    life cycle
-    earth's water cycle
-dam
-    the dam cults the river in the middle
-    a dam burst and flooded the villages
-damage
-    smoking causes damage to you health
-damp
-    damp wood is not easy to fire
-    it's damp in the south
-dash
-    dash into the street
-dawn
-    the darkest hour is nearest the dawn
-    I works from dawn till dusk
-debt
-    pay off all my debts
-    many yound people are in debt to Ant Credit Pay
-declare
-    I declare war to you
-decline
-    decline from 10% to 5%
-deed
-    a brave deed
-    do a good ded for a day
-deer
-    deer is a kind of animal that eats grass
-defeat
-    justice eventually will defeat evil
-defence
-    soldiers die in defence of the country
-    a defence lawyer
-defend
-    defend the motherland
-defense
-    offense and defense
-deliberately
-    deliberately annoy me
-    he did it deliberately
-delicate
-    babies have delicate skin
-    wine glasses are delicate
-delight
-    be crazy with delight
-deliver
-    deliver a package
-    we deliver your order to your door
-demand
-    he demanded an apology from me
-    demand a pay raise
-departure
-    postpone one's departure due to bad weather
-    on the eve of one's departure
-deposit
-    fixed time deposit
-    withdraw deposit
-depth
-    be touched by the depth of her love
-    a novel that lacks depth
-desperate
-    I feel desperate with no money
-dessert
-    have ice-cream for dessert
-destination
-    arrive at the destination
-determine
-    determine to learn English well
-devote
-    devote one's spare time to learning English
-devotion
-    his devotion to learn English to plain to see
-diagram
-    draw a diagram of the rail network
-dial
-    dial 110 for the police
-    the number you dialed is busy now
-dialect
-    speak a fluent Beijing dialect
-diet
-    don't bother trying to diet
-    she's always dieting but she never seems to lose any weight
-digest
-    food is digested in the stomach
-digital
-    digital phonos are easy to store
-dignity
-    defend national degnity
-    never do anything beneath my dignity
-dilemma
-    be faced with a dilemma
-    they try to find a way out of their dilemma
-dimension
-    measure the dimensions of the room
-    a building of vast dimensions
-dioxide
-    plants take up carbon dioxide
-dip
-    dip the dumplings in vinegar
-diploma
-    full-time diploma
-    a diploma is the ticket to a job
-directory
-    his number is in the directory
-dirt
-    wash the dirt off your hands
-disability
-    blindness is very serious desability
-    a physical or mental disability
-disadvantage
-    one of her disvantages is her height
-disappoint
-    losing the game disappointed the fans
-    disappoint the expectations of the parents
-disappointment
-    a smile maked his disappointment
-    a look of adisappointment passed over his face
-disaster
-    air disater
-    overcome the natural disater
-discount
-    buy the coat at a 10% discount
-    that store discounts ten percent
-discourage
-    don't let one failure discourage you
-discrimination
-    oppose to racial discrimination
-    there should be no sex discrimination in the workplace
-distance
-    maintain a distance of one meter
-distant
-    the distant sound of music
-    give a distant greeting
-distinguish
-    distinguish good from evil
-    distinguish right from wrong
-distribute
-    distribute filers to the passers-by
-disturbing
-    have  some disturbing experience
-    the new from the front is disturbing
-diverse
-    have diverse interests
-    a diverses range of products
-division
-    a fair division of time and resources
-divorce
-    the couple divorce
-    sign the divorce settlement
-donate
-    donate books to children living the mountains
-dormitory
-    universities provide dormitories for students
-dot
-    join the dots up to complete the drawing
-downtown
-    downtown is usually in the centre of a city
-draft
-    write my composition in rough draft first
-    draft an agreement
-drag
-    drag one's sore feet
-drama
-    Hamlet is a famous drama
-    life is full of drama
-dramatic
-    a drematic victory
-    case dramatic atrs
-drill
-    she had a lot of drills in listening
-    fire drill
-drown
-    drown in the sea
-    drown in water by accident
-due
-    his success is due to his efforts
-dull
-    repetitive work is dull
-    the dull book made me sleepy
-dusk
-    dusk sets early in winter
-dust
-    the air was thick with dust
-dusty
-    find a dusty book on the corner
-dynasty
-    China has gone through many dynasties
-eager
-    the eagle is eager for the sky
-earn
-    work hard to earn money
-ecology
-    Darwin is well-known in ecology
-economy
-    accelerate the reform of economy
-edition
-    eletronic edition
-eggplant
-    eggplant is kind of vergetable
-electricity
-    pay attention to electricity safety
-elegant
-    this lady looks elegant
-    be an elegant lady
-embassy
-    apply for a visa at the embassy
-emergency
-    emergency exit
-    keep calm in an emergency
-emotion
-    he lost control of his emotions
-    be easily swayed by one's emotions
-emperor
-    The Emperpr's New Clothers
-empire
-    the empire on which the sun never sets
-    Ancient Roman Empire
-employ
-    employing child labor is illegal
-encouragement
-    thank you for your advice and encouragement
-endanger
-    endanger personal security
-    smoking will endanger your health
-endless
-    the universe is endless
-    life is filled with endless possibilities
-energetic
-    young people are energetic
-engage
-    engage sb in conversation
-    Yuan Longping was engaged in ariculture
-enlarge
-    enlarge the bundaries of trade
-    we should enlarge the vocabulary
-enquiry
-    114 provides telephone enquiry service
-enterprise
-    a man started the enterprise
-    abandon enterprise
-entertain
-    the clown entertained the audience
-    entertain the public
-entertainment
-    the cinema is a place of entertainment
-    entertainment industry
-enthusiastic
-    my friend was an enthusiastic musician
-    enthusiastic audience
-entire
-    protect the entire population
-    entire lifetime
-entrance
-    check in at the entrance
-envy
-    his good grades are the envy of me
-    poor people envy the rich
-equal
-    all man are equal
-    enjoy equal status
-equality
-    equality of men and women
-equip
-    equip chilren with good education
-    equip oneself for a long journey
-erupt
-    the volcano is about to erupt
-    the war will erupt at any time
-escape
-    eacape from prison
-    a narrow escape from death
-essay
-    English tests require writing short essays
-evaluate
-    evaluate his performance objecttively
-    evaluate people by their appearance
-eventually
-    justice will eventually defeat evil
-    our effort will eventually acquire success
-evident
-    his footprints were clearly evident
-    an evident mistake
-evolution
-    Darwin's theory of evolution
-    study the evolution of man
-exact
-    tell me your exact age
-    his answer is quite exact
-exactly
-    I know exactly how she felt
-    descriptbe exactly what happened
-exchange
-    exchange foreign currencies for RMB
-excitement
-    shiver with excitement
-exhibition
-    go to an atr exhibition
-exist
-    fish cannot exist without water
-existence
-    everything in existence is reasonable
-expand
-    expand one's vocabulary
-    heat makes things expand
-expectation
-    live yo to parents' expectation
-expedition
-    plan a mountain climbing expedition
-    jungle expedition
-expense
-    raising children is a big expense
-    expense dosen't correspond to income
-expert
-    be acknowledged as an expert
-explanation
-    give a reasonable explanation
-    his explanation agrees with the facts
-explicit
-    give explicit reasons for leaving
-explode
-    the car explodeed in fire
-    a bomb exploded in the crowd
-exploit
-    slave owners exploited slaves
-    exploit workers by working overtime
-explore
-    explore the mysteries of the universe
-expose
-    expose one's shortcoming
-expression
-    offfer no expression of regret
-    the expression of love
-extension
-    tools are extensions of human hands
-    build an extension to house
-extra
-    charge no extra money
-extraordinary
-    Beethoven is an extraodinary musician
-extreme
-    the heat in the desert was extreme
-    extreme climate
-extremely
-    the film is extremely good
-eyesight
-    do eye exercises to ptotenct your eyesight
-facial
-    apply a facial mask
-    pacial expression
-fade
-    the fog fades everything
-    time has fades love
-failure
-    failure is the mother of success
-fairly
-    the law treats everyone fairly
-fairness
-    embody the priciple of fairness
-    fairness and equality
-faith
-    Chinese people have faith in the government
-fancy
-    childhood fancy
-    be full of fancy
-fare
-    pay the taxi fare
-fasten
-    please fasten your seat belts
-favor
-    advances in technology fave the development of country
-feather
-    birds use feathers to keep warm
-feature
-    have an obvious feature
-    typical features
+- aboard
+    - there are 200 passengers aboard
+- abolish
+    - bad customs should be abolished
+- abortion
+    - a woman's right to abortion
+    - abortion is a controversial issue
+- abrupt
+    - an abrupt 180-degree turn
+    - a abrupt change
+- absence
+    - repeated absences from school
+    - the reason for his absence is his illness
+- abstract
+    - beauty is an abstract concept
+- absurd
+    - make an absurd assumption
+    - what an absurd idea
+- abundant
+    - an abundant supply of fruit
+- abuse
+    - stop drug abuse
+    - abuse child
+    - abuse her position as headmaster
+- accelerate
+    - sunlight can accelerate the growth of plants
+    - accelerate the reform of econnomy
+- access
+    - have free access to the library
+    - enjoy equal access to opportunities
+- accessible
+    - the factory is only accessible to its workers
+    - such information is really accessible
+- accommodation
+    - hotel accommodation is tight during holidays
+    - reach an accommodation between both parties
+- accompany
+    - accompany a friend to the hospital
+    - lightning was accompany with thunder
+- accomplish
+    - accomplish the vocabulary list of today
+    - accomplish his plan
+- accountant
+    - accountant are good at maths
+    - a firm of accountant
+- accumulate
+    - accumulate words through reading
+    - accumulate a fortune by working hard
+- accuracy
+    - he pronounces words with great accuracy
+    - doubt the accuracy of the data
+- accurate
+    - the weather forecast is accurate
+    - give an accurate account of the even
+- accuse
+    - accuse him of cutting in line
+    - she was accused of lying
+- accustom
+    - accustom myself to getting up early
+    - accustom oneself to the new environment
+- acid
+    - a lemon is an acid fruit
+- acknowledge
+    - acknowledge the importance of learn English
+    - acknowledge having been at fault
+- acquaintance
+    - have a nodding acquaintance with her
+- acquire
+    - acquire the bachelor's degree
+    - acquire the good reputation
+- acquisition
+    - language acquisition  begins at an early age
+    - the acquisition of a fortune
+- acute
+    - Africa has an acute shortage of water
+    - suffer from an acute illness
+- adapt
+    - adapt to the wet and cold weather in the south
+    - adapt a new job
+- adaptation
+    - make a quick adaptation to the new environment
+    - improve your social adaptation
+- addict
+    - a drug addict
+- addicted
+    - be addicted to smoking
+- adequate
+    - an adequate supply of hot water
+    - he is adequate to the job
+- adjust
+    - adjust the height of the chair
+    - adjust yourself to new conditions
+- adjustment
+    - make an adjustment to the focus of the camera
+- administration
+    - Master of Business Administration
+    - public administration
+- admirable
+    - his courage is admirable
+- admission
+    - he is thief by his own admission
+    - gain admission to college
+- admit
+    - have the courage to admit a mistake
+- adolescence
+    - he grew tall during his adolescence
+- adolescent
+    - grow from a child into an adolescent
+- adopt
+    - adopt a suggestion
+    - adopt a child
+- adore
+    - Romeo adores Juliet
+- advance
+    - no one can stop the advance of history
+- advertise
+    - advertise the new film on TV
+- advocate
+    - advocate quality education
+    - advocate freedom of speech
+- affair
+    - mind your own affair
+    - concern oneself with state affair
+- affect
+    - cold weather affects the crops
+    - smoking affects your health
+    - deeply affect the audience
+- affectation
+    - make an affectation of indifference
+    - I'm disgusted with her affectation
+- afterward
+    - no long afterward
+- agency
+    - government agency
+    - sell a house through an agency
+- agenda
+    - be place in the top of agenda
+    - go on to the next item on the agenda
+- agent
+    - rent a house through an agent
+- aggression
+    - massive military aggression
+    - an act of unprovoked aggression
+- agricultural
+    - China is a large agricultural country
+- agriculture
+    - farmers work in agriculture
+    - traditional agriculture
+- ahead
+    - the long road ahead
+    - you must decide a week ahead
+- aid
+    - seek the aid of the police
+    - give first aid to her
+- AIDS
+    - learn a bit more about AIDS
+- aim
+    - he has a high aim in life
+    - the all these films are aimed at youth
+- aircraft
+    - take the aircraft into flight
+    - the aircraft circles in the sky
+- alcohol
+    - alcohol abuse
+    - children are not allowed to touch alcohol
+- alcoholic
+    - children can't have alcoholic drink
+- algebra
+    - figure out the algebra problem
+- allergic
+    - be allergic to seafood
+- alley
+    - enter the long narrow alley
+    - a blind allkey
+- allocate
+    - allocate new tasks
+    - allocate money among the three
+- allowance
+    - housing allowance
+    - a baggage allowance of 20 kilos
+- along
+    - take a walk along the river
+- alongside
+    - walk alongside Center Park
+- alternative
+    - prepare an alternative plan
+    - have the alternative of riding or walking
+- altitude
+    - the plane is flying at a high altitude
+- altogether
+    - I altogether agree with you
+    - altogether, things are looking up
+- aluminium
+    - aluminium is common kind of metal
+    - Coke was the first to use aluminium cans
+- amateur
+    - as an amateur painter, I paint just for fun
+- ambassador
+    - be appointed ambassador to the United States
+- ambassadress
+    - ambassadress is a woman
+- ambiguous
+    - an ambiguous statement
+    - a deliberately ambiguous reply
+- ambition
+    - a poor man has a long ambition
+- amply
+    - the supply of food is ample
+    - XinJiang has ample sunshine
+- amuse
+    - amuse oneself with game
+- amusement
+    - amusement park
+- ancestor
+    - the ancestors of man are apes
+- anecdote
+    - The Classic of Mountains and Seas is full of anecdotes
+    - childhood anecdote
+- ankle
+    - twist the ankle
+    - swollen ankles
+- anniversary
+    - school anniversary
+- announce
+    - announce the winners list
+- announcement
+    - the announcement provoked protest
+- annoy
+    - his rude words annoyed me
+- annual
+    - birthday is an annual event
+- Antarctic
+    - Antartic penguin
+    - explore the Antartic areas
+- antique
+    - collect antique
+- anxiety
+    - feel great anxiety about the future
+    - relieve somebody from anxiety
+- apart
+    - I can't tell the twins apart
+    - keep apart from the group
+- apparent
+    - starts are apparent on moonless nights
+    - It's apparent that he can't be trusted
+- appeal
+    - cartoons appeal to children
+    - appeal for aid
+    - they are appealing for democracy
+    - appeal against the judge's decision
+- appearance
+    - never judge by appearance
+- appendix
+    - there's an appendix at the end of the book
+- appetite
+    - a fever reduces the appetite
+    - pick up one's appetite
+- applaud
+    - children applauded to welcome their new teacher
+    - applaud his courage
+- applicant
+    - the applicant is waiting for an interview
+- application
+    - job application
+    - develop an English learning application
+- apply
+    - apply for jobs via the Interment
+    - there rules don't always apply
+- appoint
+    - be appointed as monitor of the class
+- appointment
+    - make an appointment to see a doctor
+    - be punctual for an appointment
+- appreciate
+    - appreciate works of art
+    - appreciate your concern
+- appreciation
+    - have a good appreation of music
+- approach
+    - the train is approach the station
+    - look forward to the approach of spring
+- approval
+    - serveral people nodded in approval
+    - submit a plan for approval
+- approve
+    - approve the budget
+    - I approve of his choice
+- approximately
+    - π is approximately 3.14
+- apron
+    - wear a clean apron
+- arbitrary
+    - decisions made with coins are arbitrary
+    - an arbitrary ruler
+- arch
+    - arch bridge
+- architect
+    - an architect designs buildings
+- archiecture
+    - be interested in ancient archiecture
+    - study architecture at university
+- Arctic
+    - polar bear live the Arctic Circle
+- argue
+    - argue in a very loud voice
+- argument
+    - get a blow in the argument
+    - confute an argument
+- arise
+    - an emergency arise
+    - problems arose due to the lack of communication
+- arithmetic
+    - In a sense, arithmetic is a language
+- arrange
+    - arrange the books on the selves
+- arrangement
+    - courage arrangement
+    - mess up the travel arrangement
+- arrest
+    - the police arrested the thief
+    - arrest the spread of the fire
+    - arrest one's attention
+- artificial
+    - artificial intelligence
+    - wear an artificial smile
+- ash
+    - the house was burnt to ashes
+- ashamed
+    - be ashamed of making mistakes
+    - be ashamed to ask a favor
+- aspect
+    - look at every aspect of the problem
+    - take on an entirely new aspect
+- assess
+    - assess the situation
+- assessment
+    - risk assessment
+- assist
+    - dictionary will assist you to read
+    - assist th bilnd across the street
+- assistance
+    - provide assistance
+    - decline other's assitance
+- assistant
+    - file transfer assistant
+    - personal assistant
+- associate
+    - people associate roses with love
+    - a business associate
+- association
+    - consumers' association
+    - be in close association with people
+- astonish
+    - her reply astonished me
+- astronomer
+    - astronomer love to observe the stars
+- athletic
+    - an athetic club
+- atmosphere
+    - the atmosphere maintains the temperature of the earth
+    - pollute the atmosphere
+- atom
+    - the atom is the basic unit of matter
+- attack
+    - attack the enemy
+- attain
+    - attain the ideal weight
+    - attain success through hard work
+- attempt
+    - the prisoner attempted an escape, but failed
+- attitude
+    - hold a positive attitude toward life
+- attract
+    - the West Lake attracts many tourists
+- attraction
+    - resist the attraction of money
+    - the attraction of the moon for the earth
+- attractive
+    - cities are attractive to young people
+- audience
+    - impress the audience
+- authentic
+    - she has authentic charm whereas most people simply have nice manners
+    - they have to look authentic
+- authority
+    - a recognized academic authority
+- autonomous
+    - XinJiang is an autonomous region of China
+- avenue
+    - the avenue is crowded with cars
+    - hard work is an avenue to success
+- average
+    - reach the average income
+    - schools need to look at the average class score
+- avoid
+    - avoid making mistakes
+- aware
+    - be aware of one's own disadvantages
+- awesome
+    - the show was just awesome
+    - they had an awesome task ahead
+- awkward
+    - mistaking someone is awkward
+    - handle an awkward situation
+- bachelor
+    - golden bachelor
+    - a bachelor apartment
+- backward
+    - take two steps backward
+    - she went without a backward glance
+- bacon
+    - bacon hung all over the balcony
+- bacterium
+    - most diseases are caused by bacterium
+- bake
+    - bake cookies in the oven
+- ballet
+    - Swan Lake is ballet
+- ban
+    - smoking is banned is gas stations
+    - lift a ban on political parties
+- bandage
+    - put a bandage to stop bleeding
+- banquet
+    - farewell banquest
+- braber
+    - the braber gave me a haircur
+- bare
+    - fight the enemy with bare hands
+- bargain
+    - our shop refuses to bargain
+    - sell at a bargain price
+- bark
+    - the dog bark
+- barrier
+    - put a barrier across the road
+    - get over the language barrier
+- basement
+    - the basement is dark
+- basin
+    - a basin of cold water
+    - live in Sichuan Basin
+- basis
+    - a firm basis
+    - provide a sound basis for sth
+- bath
+    - take a bath after exercise
+- bathe
+    - don't bathe too soon after eating
+- bathtub
+    - run water into bathtub
+    - bathe in bathtub
+- battery
+    - the battery ran out of power
+- bay
+    - a beautiful and quiet bay
+- beancurd
+    - he like food made of beancurd
+- beard
+    - shave the beard
+    - Santa Claus has a long white beard
+- beast
+    - Beauty and the Beast
+- bee
+    - as busy as bee
+- belong
+    - the pandas belong to China
+- bend
+    - the trees band before the wind
+    - the branch began to bend
+- beneath
+    - the road lay beneath the snow
+    - the boat sank beneath the waves
+- beneficial
+    - brushing is beneficial to your teeth
+    - subshine is beneficial to plants
+- benefit
+    - exercise brings benefits to our body
+- bent
+    - grandpa has a bent back
+- besides
+    - I don't want to go, besides, it's raining
+    - he has two sons and two daughters besides
+- betray
+    - true friends never betray each other
+- bid
+    - bid for a new building
+    - make a bid to pass the examination
+- biochemistry
+    - her specialty is biochemistry
+- biography
+    - a brief biography
+- biology
+    - How far is human nature determined by biology?
+- bishop
+    - he is appointed as a bishop
+- blame
+    - blame her for breaking the vase
+- blank
+    - my mind went blank when I saw the test paper
+- bleed
+    - mu heart bleeds for you
+- blind
+    - be blind in both eyes
+    - don't do build attempts
+- bomb
+    - the bomb exploded in a flash
+- bond
+    - form a spiritual bond
+    - common interests formed a bond
+- bonus
+    - bonuses are tied to performance
+- boom
+    - a boom year for business
+- booth
+    - street phone booth
+- botanical
+    - botanical illustration
+    - botanical garden
+- botany
+    - major in botany
+- bound
+    - a proud army is bound to lose
+    - be bound by contract
+- boundary
+    - don't cross the boundary at will
+- bow
+    - the Japanese often bow as a greeting
+- boycott
+    - boycott fake products
+    - press a boycott on racism
+- brake
+    - The cause of the accident was that the brake don't work 
+- brand
+    - HuaWei is a world-famous Chinese brand
+- bravery
+    - admire his brevery and strength
+- breakthrough
+    - an important breakthrough
+- breast
+    - the mother held her child to her breast
+- breeze
+    - a gentle breeze blew
+    - a cool summer breeze
+- brewery
+    - the beer is brewed at the brewery
+- brick
+    - burn brick
+    - a house build of bricks
+- bride
+    - toast the bride and bridegroom
+- bridegroom
+    - the bridegroom wore a suit
+- broad
+    - a great river flows with broad waves
+    - a broad range of interests
+- brochure
+    - travel brochure
+    - hand out brochures in the street
+- broom
+    - aweep the floor with broom
+- buchet
+    - a buchet of paint
+    - it rains in buckets
+- buddhism
+    - practise buddhism in human world
+    - have a strong belief in Buddhism
+- budget
+    - the budget is tight
+    - budget your time
+- buffet
+    - a buffet breakfast
+- bully
+    - bully the small by being big
+    - be bullied at school
+- bunch
+    - a bunch of friends from college
+    - give a bunch of flowers to his girlfriend
+- bungalow
+    - a bungalow does not have an upstairs
+- burden
+    - a camel can bear a burden
+    - I don't want to be a burden to you
+- bureaucratic
+    - get rid of bureaucratic preactices
+    - bureaucratic battles
+- burglar
+    - burglar alarm
+    - burglars broke into their home
+- burst
+    - pipes often burst in cold weather
+    - the tiver burst its banks
+    - burst into loud laughs
+- butcher
+    - buy meat at the butcher's
+- cab
+    - a cab driver
+- cafeteria
+    - have a supper in the cafeteria
+- calm
+    - keep calm
+    - he answered with a calm vioce
+- campaign
+    - a compaign against racism
+    - a nationwide anti-smoking campaign
+- candidate
+    - the most likely candidate for president
+- canteen
+    - go to the canteen for lunch
+- cansule
+    - take one capsule every four hours
+- captrue
+    - the fishes are captured in nets
+    - captured over 300 enemy soldiers
+- carbon
+    - plants take in carbin dioxide
+- career
+    - career planning of college students
+    - ruin one's career
+- carpenter
+    - the carpenter made a chair our of wood
+- carpet
+    - beat dust out od the carpet
+- carriage
+    - non-smoking carriage
+    - smoke in the railway carriage
+- carrier
+    - files are carriers of disaseas
+- cart
+    - the hours pulla a cart
+- casual
+    - a casual chat
+    - he took some casual jobs
+- catalog
+    - look through a catalog
+    - the system catalog
+- catastrophe
+    - war would ba a catastrophe
+- category
+    - there are different categories of book in the library
+    - thay fall intodirrerent categories
+- cater
+    - cater to another's pleasure
+- cathedral
+    - visit a cathedral
+    - construct a great cathedral
+    - remodel the old cathedral
+- cattle
+    - the cattle were eating grass
+- caution
+    - he is a man of caution
+- celebration
+    - he success was a cause for celebration
+- cell
+    - cell wall
+    - cancer cells spread
+- cellar
+    - store some vegetables in the cellar during the winter
+- centigrade
+    - water freezes at zero degree centigrade
+- centimetre
+    - one meter is equal to 100 centimeters
+- central
+    - the central idea of the article
+- ceremony
+    - lack of ceremony caused quarrels
+    - Tian'anmen Square holds a flag-raising ceremony daily
+- certificate
+    - a birth cerificate
+- challenging
+    - rock climbing is a challenging sport
+- champagne
+    - open a bottle of champagne to celebrate
+- chaos
+    - the typhoon left chaos behind it
+- character
+    - a man of firm character
+    - the character in the novel
+- characterise
+    - characterise the heroine as passionate
+    - characterise Chinese chlture
+- charge
+    - charge no extra money
+    - this service is free of charge
+- cheek
+    - mon kissed me on the cheek
+    - girl with rosy cheeks
+- cheerful
+    - keep cheerful spirits
+    - restaurants have chefs
+- chemical
+    - chemical reaction
+    - ban the use of chemical weapons
+- chemist
+    - a chemist can make out a medicine
+- cheque
+    - chash a cheque
+    - pay by cheque
+- chick
+    - the chick broke through the shell and struggled out
+- chief
+    - the chief engineer
+- chimney
+    - a factory chimney
+- choir
+    - the choir sings chants every Christmas
+- choke
+    - choke sb to choke
+    - be choked by smoke
+- chorus
+    - a female chorus
+- christian
+    - Christmas is a Christian festival
+    - Christain belif
+    - a religious Christian
+- circuit
+    - break an electric circuit
+    - a circuit diagram
+- circulate
+    - open the window to circulate air
+- circumstance
+    - create a good curcumstance for students
+    - it depends on circumstances
+    - in favorable circumstance
+- civilization
+    - Chine is one of the four ancient civilizations
+- claim
+    - the suspect claimed that he was innocent
+    - claim one's right
+- clarify
+    - clarify one's position
+    - clarify the meaning
+- clay
+    - make a bowl out of clay
+- cleaner
+    - we need a part-time cleaner
+    - the cleaner dumped all the rubbish into a big bin
+- climate
+    - the desert has dry climate
+    - social climate
+- cloth
+    - wipe the window with a cloth
+- clue
+    - discover an impartant clue
+- clumsy
+    - a clumsy gesture
+    - he is clumsy in speaking
+- cock
+    - a cock cannot lay eggs
+- coincidence
+    - all similarities are conincidences
+    - a coincidence of interests
+- collar
+    - I turned up my collar against the wind
+- colleague
+    - getting on well with colleagues is important
+- collision
+    - a collision between two cars
+    - the collision of two generations
+    - bring him into collision with the law
+- combine
+    - combine theory with practice
+    - combine work and play
+- comma
+    - leave out a comma
+- commander
+    - the commander shouted orders
+- coment
+    - don't hesitate to make comments
+    - do you have any comments about that
+- commercial
+    - the commercial future of the company looks promising
+- commitment
+    - make a commitment
+- committee
+    - a committee consisting of ten members
+    - the committee refused his advice
+- communism
+    - communism is based on Marxism
+    - out ultimate aim is to realize communism
+- companion
+    - dogs are man's faithful companious
+- comparison
+    - make a com parison of
+- compass
+    - the compass needle point south
+- compensate
+    - compensate his loss with money
+    - compensate for a shortcoming
+- competence
+    - language competence
+    - develop social competence
+- complex
+    - the human brain is complex
+- comprehension
+    - advanced mathmatics is beyound my comprehension
+- compromise
+    - I would rather die than compromise
+    - compromise my principle
+- compulsory
+    - nine-year complusory education
+- comrade
+    - we should learn from Comrade Lei Feng
+    - we should be good comrades of the Party
+- concentrate
+    - concentrate on one's things
+- concept
+    - New Concept English
+    - mathematics has many abstract concepts
+- concern
+    - don't concern sb
+    - the health problem concerns everyone
+- conclude
+    - conslude from a conversation
+    - I must conclude that you are wrong
+- conclusion
+    - deduce a conclusion
+    - draw a wrong conclusion
+- concrete
+    - take a concrete example
+    - make a concrete analysis of concrete problems
+- condemn
+    - the public condemn the murderer
+    - condemn him to death for murder
+- conduct
+    - criminal conduct
+    - be dissatisfied with her conduct
+- conductor
+    - a bus conductor
+- confidence
+    - establish one's confidence
+    - lack confidence in oneself
+- confident
+    - we are confident of victory
+- confidential
+    - pass confidential letters in Morse code
+    - don't be too confidential with others
+- comfirm
+    - confirm the predction
+- conflict
+    - conflict drives the story
+- confuse
+    - succeed in confusing the enemy
+    - confuse blake and white
+- conscience
+    - I couldn't sleep with a guilty conscience
+    - act according to your conscience
+- consensus
+    - reach a consensus about the mastter
+    - social consensus
+- consequence
+    - It terrified me to contemplate the consequence of your action
+    - he studied hard, and in consequence he passed the exam
+- conservative
+    - the girl dress in a conservative style
+    - according to a conservative estimate
+- consider
+    - consider suggestion
+    - consider carefully before doing anything
+- considerate
+    - offer considerate service
+    - be considerate if others
+- consist
+    - a week consists of seven days
+    - happiness consists in contentment
+- constant
+    - a constant speed
+    - the fright keeps food at a constant temperature
+- constitution
+    - the consitution is the fundamental law
+- consult
+    - consult a lawyer
+    - consult a dictionary
+- consultant
+    - a consultant firm
+    - act as a business consultant
+- consume
+    - consume fat
+    - study consumes all their time
+- contain
+    - sea water contain salt
+- contemporary
+    - the study of contemproary art
+    - he is a contemproary of mine
+- contradict
+    - contradict oneself
+    - the two stories contradict each other
+- contradictory
+    - be contrandictory to common sence
+    - self-contradictory concept
+- contrary
+    - 'hot' and 'cold' are contrary terms
+    - on the contrary
+- contrast
+    - black and white shows a clear contrast
+    - form a striking contrast with the former
+- contribute
+    - contribute to the country
+    - contribute one's share
+- contribution
+    - make contribution to the country
+    - a sighificant contribution to science
+- controversial
+    - stay away from controversial topics
+    - a controversial incident
+- conventional
+    - exceed conventional rules
+    - use a conventional method to do something
+- convey
+    - convey my apologies to you
+    - body language can convey feelings
+- convince
+    - convince public
+    - convince by argument
+- coral
+    - there are many corals in the sea
+    - wear a coral necklace
+- corporation
+    - a finance corporation
+- correction
+    - make some correction to my homework
+    - I accept correction with plearsure
+- correspond
+    - correspond to the sample
+- corrupt
+    - the corrupt late Qing government
+- cosy
+    - live in a cosy little room
+- cottage
+    - live in a tiny cottage
+- counter
+    - pay at the counter
+    - an electronic counter
+- court
+    - the civil courts
+    - Superme People's Court
+- courtyard
+    - play in the courtyard
+- cozy
+    - cozy chair
+    - cozy surroundings
+- crash
+    - the plane crashed
+- creature
+    - pobots are wonderful creatures
+    - humans are the creature of th God, according to the Bible
+- credit
+    - apply for a credit card
+    - credit crisis
+- crew
+    - the train has a crew of 20
+- crime
+    - murder is a serious crime
+- criminal
+    - murder is a criminal act
+- crisis
+    - the 2008 financial crisis
+- criterion
+    - practice is the sole criterion for testing truch
+    - a good criterion of happiness in life
+- crop
+    - rice is the main crop
+- crowd
+    - the whole crowd joined in
+    - crowd into a train
+- cruelty
+    - an act of extreme cruelty
+    - condemn cruelty to children
+- cube
+    - a cube has six sides
+    - cube shape
+- cubic
+    - cubic metres
+    - boxes are cubic
+- cuisine
+    - tradtional Chinese cuisine
+- cultural
+    - cultural difference are played down
+- cure
+    - AIDS cannot be cured yet
+- curious
+    - the boy was curious about everything
+- currency
+    - paper currency
+    - exchange foreign currency for RMB
+- curriculum
+    - the same national curriculum
+    - the curriculum schedule
+- cushion
+    - the color of the cushions matches the sofa
+- custom
+    - exchanging gifts is a Christmas custom
+- customer
+    - the customer is king
+- customs
+    - pay customs duty
+    - to reduce customs duyt
+- cycle
+    - life cycle
+    - earth's water cycle
+- dam
+    - the dam cults the river in the middle
+    - a dam burst and flooded the villages
+- damage
+    - smoking causes damage to you health
+- damp
+    - damp wood is not easy to fire
+    - it's damp in the south
+- dash
+    - dash into the street
+- dawn
+    - the darkest hour is nearest the dawn
+    - I works from dawn till dusk
+- debt
+    - pay off all my debts
+    - many yound people are in debt to Ant Credit Pay
+- declare
+    - I declare war to you
+- decline
+    - decline from 10% to 5%
+- deed
+    - a brave deed
+    - do a good ded for a day
+- deer
+    - deer is a kind of animal that eats grass
+- defeat
+    - justice eventually will defeat evil
+- defence
+    - soldiers die in defence of the country
+    - a defence lawyer
+- defend
+    - defend the motherland
+- defense
+    - offense and defense
+- deliberately
+    - deliberately annoy me
+    - he did it deliberately
+- delicate
+    - babies have delicate skin
+    - wine glasses are delicate
+- delight
+    - be crazy with delight
+- deliver
+    - deliver a package
+    - we deliver your order to your door
+- demand
+    - he demanded an apology from me
+    - demand a pay raise
+- departure
+    - postpone one's departure due to bad weather
+    - on the eve of one's departure
+- deposit
+    - fixed time deposit
+    - withdraw deposit
+- depth
+    - be touched by the depth of her love
+    - a novel that lacks depth
+- desperate
+    - I feel desperate with no money
+- dessert
+    - have ice-cream for dessert
+- destination
+    - arrive at the destination
+- determine
+    - determine to learn English well
+- devote
+    - devote one's spare time to learning English
+- devotion
+    - his devotion to learn English to plain to see
+- diagram
+    - draw a diagram of the rail network
+- dial
+    - dial 110 for the police
+    - the number you dialed is busy now
+- dialect
+    - speak a fluent Beijing dialect
+- diet
+    - don't bother trying to diet
+    - she's always dieting but she never seems to lose any weight
+- digest
+    - food is digested in the stomach
+- digital
+    - digital phonos are easy to store
+- dignity
+    - defend national degnity
+    - never do anything beneath my dignity
+- dilemma
+    - be faced with a dilemma
+    - they try to find a way out of their dilemma
+- dimension
+    - measure the dimensions of the room
+    - a building of vast dimensions
+- dioxide
+    - plants take up carbon dioxide
+- dip
+    - dip the dumplings in vinegar
+- diploma
+    - full-time diploma
+    - a diploma is the ticket to a job
+- directory
+    - his number is in the directory
+- dirt
+    - wash the dirt off your hands
+- disability
+    - blindness is very serious desability
+    - a physical or mental disability
+- disadvantage
+    - one of her disvantages is her height
+- disappoint
+    - losing the game disappointed the fans
+    - disappoint the expectations of the parents
+- disappointment
+    - a smile maked his disappointment
+    - a look of adisappointment passed over his face
+- disaster
+    - air disater
+    - overcome the natural disater
+- discount
+    - buy the coat at a 10% discount
+    - that store discounts ten percent
+- discourage
+    - don't let one failure discourage you
+- discrimination
+    - oppose to racial discrimination
+    - there should be no sex discrimination in the workplace
+- distance
+    - maintain a distance of one meter
+- distant
+    - the distant sound of music
+    - give a distant greeting
+- distinguish
+    - distinguish good from evil
+    - distinguish right from wrong
+- distribute
+    - distribute filers to the passers-by
+- disturbing
+    - have  some disturbing experience
+    - the new from the front is disturbing
+- diverse
+    - have diverse interests
+    - a diverses range of products
+- division
+    - a fair division of time and resources
+- divorce
+    - the couple divorce
+    - sign the divorce settlement
+- donate
+    - donate books to children living the mountains
+- dormitory
+    - universities provide dormitories for students
+- dot
+    - join the dots up to complete the drawing
+- downtown
+    - downtown is usually in the centre of a city
+- draft
+    - write my composition in rough draft first
+    - draft an agreement
+- drag
+    - drag one's sore feet
+- drama
+    - Hamlet is a famous drama
+    - life is full of drama
+- dramatic
+    - a drematic victory
+    - case dramatic atrs
+- drill
+    - she had a lot of drills in listening
+    - fire drill
+- drown
+    - drown in the sea
+    - drown in water by accident
+- due
+    - his success is due to his efforts
+- dull
+    - repetitive work is dull
+    - the dull book made me sleepy
+- dusk
+    - dusk sets early in winter
+- dust
+    - the air was thick with dust
+- dusty
+    - find a dusty book on the corner
+- dynasty
+    - China has gone through many dynasties
+- eager
+    - the eagle is eager for the sky
+- earn
+    - work hard to earn money
+- ecology
+    - Darwin is well-known in ecology
+- economy
+    - accelerate the reform of economy
+- edition
+    - eletronic edition
+- eggplant
+    - eggplant is kind of vergetable
+- electricity
+    - pay attention to electricity safety
+- elegant
+    - this lady looks elegant
+    - be an elegant lady
+- embassy
+    - apply for a visa at the embassy
+- emergency
+    - emergency exit
+    - keep calm in an emergency
+- emotion
+    - he lost control of his emotions
+    - be easily swayed by one's emotions
+- emperor
+    - The Emperpr's New Clothers
+- empire
+    - the empire on which the sun never sets
+    - Ancient Roman Empire
+- employ
+    - employing child labor is illegal
+- encouragement
+    - thank you for your advice and encouragement
+- endanger
+    - endanger personal security
+    - smoking will endanger your health
+- endless
+    - the universe is endless
+    - life is filled with endless possibilities
+- energetic
+    - young people are energetic
+- engage
+    - engage sb in conversation
+    - Yuan Longping was engaged in ariculture
+- enlarge
+    - enlarge the bundaries of trade
+    - we should enlarge the vocabulary
+- enquiry
+    - 114 provides telephone enquiry service
+- enterprise
+    - a man started the enterprise
+    - abandon enterprise
+- entertain
+    - the clown entertained the audience
+    - entertain the public
+- entertainment
+    - the cinema is a place of entertainment
+    - entertainment industry
+- enthusiastic
+    - my friend was an enthusiastic musician
+    - enthusiastic audience
+- entire
+    - protect the entire population
+    - entire lifetime
+- entrance
+    - check in at the entrance
+- envy
+    - his good grades are the envy of me
+    - poor people envy the rich
+- equal
+    - all man are equal
+    - enjoy equal status
+- equality
+    - equality of men and women
+- equip
+    - equip chilren with good education
+    - equip oneself for a long journey
+- erupt
+    - the volcano is about to erupt
+    - the war will erupt at any time
+- escape
+    - eacape from prison
+    - a narrow escape from death
+- essay
+    - English tests require writing short essays
+- evaluate
+    - evaluate his performance objecttively
+    - evaluate people by their appearance
+- eventually
+    - justice will eventually defeat evil
+    - our effort will eventually acquire success
+- evident
+    - his footprints were clearly evident
+    - an evident mistake
+- evolution
+    - Darwin's theory of evolution
+    - study the evolution of man
+- exact
+    - tell me your exact age
+    - his answer is quite exact
+- exactly
+    - I know exactly how she felt
+    - descriptbe exactly what happened
+- exchange
+    - exchange foreign currencies for RMB
+- excitement
+    - shiver with excitement
+- exhibition
+    - go to an atr exhibition
+- exist
+    - fish cannot exist without water
+- existence
+    - everything in existence is reasonable
+- expand
+    - expand one's vocabulary
+    - heat makes things expand
+- expectation
+    - live yo to parents' expectation
+- expedition
+    - plan a mountain climbing expedition
+    - jungle expedition
+- expense
+    - raising children is a big expense
+    - expense dosen't correspond to income
+- expert
+    - be acknowledged as an expert
+- explanation
+    - give a reasonable explanation
+    - his explanation agrees with the facts
+- explicit
+    - give explicit reasons for leaving
+- explode
+    - the car explodeed in fire
+    - a bomb exploded in the crowd
+- exploit
+    - slave owners exploited slaves
+    - exploit workers by working overtime
+- explore
+    - explore the mysteries of the universe
+- expose
+    - expose one's shortcoming
+- expression
+    - offfer no expression of regret
+    - the expression of love
+- extension
+    - tools are extensions of human hands
+    - build an extension to house
+- extra
+    - charge no extra money
+- extraordinary
+    - Beethoven is an extraodinary musician
+- extreme
+    - the heat in the desert was extreme
+    - extreme climate
+- extremely
+    - the film is extremely good
+- eyesight
+    - do eye exercises to ptotenct your eyesight
+- facial
+    - apply a facial mask
+    - pacial expression
+- fade
+    - the fog fades everything
+    - time has fades love
+- failure
+    - failure is the mother of success
+- fairly
+    - the law treats everyone fairly
+- fairness
+    - embody the priciple of fairness
+    - fairness and equality
+- faith
+    - Chinese people have faith in the government
+- fancy
+    - childhood fancy
+    - be full of fancy
+- fare
+    - pay the taxi fare
+- fasten
+    - please fasten your seat belts
+- favor
+    - advances in technology fave the development of country
+- feather
+    - birds use feathers to keep warm
+- feature
+    - have an obvious feature
+    - typical features
+- federal
+    - America is a federal republic
+- fee
+    - pay a fat fee to empluyees
+- fellow
+    - her fellows share her interest in computers
+- fiber
+    - a fabric of fine fiber
+- fibre
+    - vegetables are rich in fibre
+- fiction
+    - the Three-Body Problem is a science fiction
+    - real life is sometimes stranger than fiction
+- fierce
+    - fiecre tiger
+    - he threw a fierce book at me
+- figure
+    - figure up the total
+    - I figure that you wouldn't come
+- finance
+    - she loves her fiance
+- fingernail
+    - cur fingernail
+    - paint that one fingernail blue
+- fireworks
+    - set off fireworks on New Year's Eve
+- firm
+    - show me his firm muscle
+    - firm beliefs
+- fist
+    - sriike with fist
+    - fight with naked fist
+- flame
+    - the dry sticks burst into flame
+- flashlight
+    - press the switch to turn off the flashlight
+- flee
+    - the enemy were defeated and fled
+- flash
+    - lights flahed on the stage
+- flesh
+    - the smell of rotting flesh
+    - tiger are flesh-eating animals
+- flexible
+    - flexible working hours
+- flour
+    - bread is made of flour
+    - flour is made from wheat
+- flow
+    - a stream flowed into the way
+- fluency
+    - he speaks English with great fluency
+- fluent
+    - speak fluent English
+- fog
+    - the mountain was hidden by the fog
+- foggy
+    - Lodon is foggy city
+- fond
+    - be fond of show
+    - I am not fond of failure
+- forbid
+    - forbid anyone to take a picture
+- forecast
+    - rain is forecast for tonight
+    - give an accurate forecast
+- forehead
+    - hard life has lined her forehead
+- foresee
+    - foresee the future
+- forgetful
+    - become forgetful from age
+- formal
+    - make a formal application
+    - a formal education
+- former
+    - former wife
+- fortnight
+    - a fortnight is fourteen days
+- fortunate
+    - be fortunate in life
+    - it's fortunate you didn't forget
+- fortunately
+    - fortunately, no one was hurt
+- fortune
+    - forture sides with one who dares
+- found
+    - Steve Jobs founded Apple
+- fountain
+    - the brain is the fountain of ideas
+- fragile
+    - the vase is fragile
+    - in the face of death, we are fragile
+- franc
+    - the franc is a hard currency
+- freeway
+    - you can't turn around on the freeway
+- freezing
+    - the winter wind is freezing
+- frequent
+    - rains are frequent in summer
+- friction
+    - matched are lighted by friction
+- frost
+    - the grass was covered with forst
+- fry
+    - fry the potatoes in hot oil
+- fuel
+    - coal is used as fuel
+    - add fuel to the fire
+- fund
+    - social fund
+    - prize fund
+- fundamental
+    - The fundamental problem lies in their inability to distinguish between reality and invention
+    - He believes better relations with China are fundamental to the well-being of the area
+- funeral
+    - break down in tears in a funeral
+- fur
+    - cat's fur feels soft
+- furnished
+    - the room was furnished with taste
+    - the new house is not furnished yet
+- further
+    - do you have any further questions
+    - go further
+    - further the sause of peace
+- gale
+    - a gale is blowing
+    - the severs gale split the ship
+- gallon
+    - one gallon of water weight 4 pounds
+- garbage
+    - garbage sorting
+    - take out the garbage
+- garlic
+    - carlic can remove fishy smell
+- garment
+    - nature wears a new garment in spring
+- gather
+    - gather together outsides the door
+    - I gether you've taken our advice
+- generally
+    - I generally get up at six o'clock
+- generation
+    - generation gap
+    - from generation to generation
+- generous
+    - make a generous donation
+- genius
+    - he has a genius for invention
+- gentle
+    - he's voice was gentle
+- geometry
+    - geometry deals with graphs
+- gifted
+    - a gifted student
+    - she is gifted with a good memory
+- glance
+    - the teacher glances around the classroom
+    - she glanced at her watch
+- glare
+    - glare at the enemy
+- globe
+    - travel round the globe
+- glory
+    - they fight for glory
+- golf
+    - golf is an outdoor game
+- govern
+    - the guvernment govern the country
+- gradual
+    - losing weight is a gradual process
+    - suffer a gradual loss of memory
+- gradually
+    - the sea gradually calmed down
+    - the weather gradually improved
+- graduation
+    - graduation ceremony
+- grain
+    - we can't waste a grain of rice
+- gram
+    - an egg weight about 50 grams
+- grand
+    - hold a grand welcome party
+- grateful
+    - I'm grateful for your help
+- greedy
+    - officials must not be greedy
+    - greedy desire
+- greek
+    - Greek god
+    - spend a week on the Greek island
+- grill
+    - put the steak on the grill
+    - clean the grill before starting a fire
+- grocer
+    - keep a grocer's shop
+- grocery
+    - the grocery was empty of vergetables
+- growth
+    - weeds will affect the growth of crops
+    - plants need sunlinght for growth
+- guarantee
+    - the blue sky guarantees fine weather
+    - I guarantee that I will love you forever
+- guidance
+    - career guidance for college students
+    - they prayed to God for guidance
+- guilry
+    - I felt guilty after breaking my pormise
+- gymnasium
+    - play backetball in the gymnasium
+- gymnastice
+    - men's gymnastic competition
+- habitat
+    - the Arctic is the habitat of the polar bear
+    - protect the habitat of pandas
+- handkerchief
+    - dry tears with a handkerchief
+- handy
+    - It's handy to have the book here
+- harbor
+    - Dalian is a barbor city
+    - harbor great ambitions
+- harm
+    - reading in bed does harm to your eyes
+- harmful
+    - harmful chemical
+    - too much rain is harmful for the crops
+- harmless
+    - she has a harmless face
+- harvest
+    - the tice is ripe for harvest
+    - gether a good harvest
+- hatch
+    - a hen hatches eggs
+- headline
+    - scan the headline to save time
+    - the case is headline news
+- headmaster
+    - the headmaster runs the school
+- hearing
+    - wearing earphones for a long time damages hearing
+- holy
+    - God is holy
+    - keep a holy faith
+- hook
+    - a fish bites the hook
+- hostess
+    - the hostess prepared dinner for guests
+- howl
+    - wolves howl when the moon is full
+- humor
+    - comedy films are full of humor
+    - humor him rather than get into an argument
+- humorist
+    - he was something of a humorist
+- humour
+    - he has a good sence of humour
+- hunter
+    - the hunter shot three wild geese
+- hurricane
+    - hurricane is approaching the coast of Florida
+    - the hurriance destroyed many house
+- hydrogen
+    - hydrogen is a gas with no color
+    - water contains hydrogen and oxygen
+- identity
+    - identity card
+- idiom
+    - vocabulary and idiom
+    - translate the idiom
+- ignore
+    - ignore driving safety
+    - ignore advice
+- illegal
+    - drug dealing isillegal
+    - it's illegal to hire somene under 16
+- immigration
+    - immigration
+- impolite
+    - an impolite manner
+    - don't be impolite
+- impress
+    - impress the audience
+- impression
+    - strengthen the impression
+    - have a good impression on first meet
+- incident
+    - racial incident
+- income
+    - live on a small income
+- indeed
+    - that's a indeed decision indeed
+    - it is indeed unfortunate
+- independence
+    - economic independence
+    - America gained its independence in the 18th century
+- independent
+    - be independent of parents
+- indicate
+    - his expression indicates a bad mood
+    - the blue sky indicates fine weather
+- inform
+    - inform someone of an interview
+    - inform sonebody in advance
+- informal
+    - the restaurant is informal
+    - the garden has an onfromal feel
+- injure
+    - no one was injures in the accident
+    - smoking injures his health
+- injury
+    - suffer from serious injury
+- inn
+    - a holiday inn
+- inner
+    - an inner courtyard
+    - inner emotion
+    - conceal one's inner excitement
+- innocent
+    - innocent people lost live in the war
+- inquiry
+    - a thotough inquiry into the plane crash
+- inspire
+    - inspire the initiative of the staff
+    - inspire imagaination
+- instant
+    - thake an instant action
+    - I took an instant like to him when I met him
+- institute
+    - Confucius Instiute
+    - send a material to the institue
+- inztitution
+    - a bank is a finanical institution
+    - the social security institution
+- instruct
+    - instruct student obey the rules
+- instrument
+    - medical instrument
+- insurance
+    - the insurance company is built on trust
+- insure
+    - insure traffic safety
+- intend
+    - I didn't intend to tell it to you
+    - we intend them to follow these rules
+- interpreter
+    - the job of an interpreter is to translate dialogue
+- interrupt
+    - sorry to interrupt you
+    - interrupt the conversation
+- inviation
+    - at the invitation of somebody
+    - party invitation
+- irrigation
+    - carry out an irrigation project
+    - the irrigation system supplies fields with water
+- jam
+    - spread jam on the bread
+    - be in a jam
+- jar
+    - take a cookie from the cookie jar
+    - his opinions jar with mine
+    - the noiser jar on my nerves
+- jaw
+    - born with a square jaw
+- jazz
+    - Jazz is a kind of music
+- jet
+    - a jet plane screamed past overhead
+- jewelry
+    - put the earrings in the jewelry box
+- jog
+    - try to lose weight by jogging
+- jurnalist
+    - a journalist of China Daliy
+- journery
+    - they wished us a pleasant juorney
+- judge
+    - never judeg by appearances
+    - judge other people with charity
+- judgement
+    - trust your own judgement
+    - make serious errors of justment
+- junior
+    - my brother is three yeard junior to me
+- kettle
+    - pour water from the kettle
+- kindergarten
+    - children usually start kindergarten at the age of four
+- kingdom
+    - the ruler of a kingdom is called a king
+    - wonderful mental kingdom
+    - plant kingdom
+- laboratory
+    - have an experiment in the laboratory
+- lack
+    - lack of work experience
+    - a desert lacks water
+- ladder
+    - climb up the ladder
+- lame
+    - he is lame in the left leg
+    - a lame excuse for not doing homework
+- lap
+    - hold the child on my lap
+    - the last lap of the race
+- lately
+    - seldom have I met him lately
+- latter
+    - the latter is better than the former
+    - of the two chioces, I perfer the later
+- laundry
+    - the hotel has a laundry service
+- league
+    - members of the Communist Youth League
+    - League of Legends (LOL)
+- leak
+    - water was leaking from the pipe
+    - the news leaks out
+- leather
+    - the sofa is covered in real leather
+- lecture
+    - many lectures are held in universities
+    - lecture him in front of the whole class
+- legal
+    - bear legal responsibility
+    - provide legal aid
+- liberate
+    - Chinese mainland was liberated in 1949
+    - liberate one's mide
+- liberation
+    - People's Liberation Army of China
+- liberty
+    - the Statue of Liberty
+    - give me liberty or give me death
+- librarian
+    - school librarian
+- lid
+    - lick the yogurt lid
+- lifetime
+    - devote a lifetime to my career
+- limit
+    - limit the speech to three minutes
+- link
+    - establish diplomatic links
+- liquid
+    - water is a liquid
+    - have liquid eyes
+- literary
+    - "War and Peace" is a literary classic
+    - he is a man of literary culture
+- literature
+    - ancient Chinese literature
+- litre
+    - a litre of beer
+- loaf
+    - a whole-wheat loaf
+    - loaf at the street corner
+- louse
+    - some diseases passed from human to human by the body louse.
+- lounge
+    - airport lounge
+    - test in a liviing-room lounge
+- luggage
+    - luggage is required on long trips
+    - put the luggage in the trunk
+- lung
+    - we breathe with our lungs
+- madame
+    - madame is a kind of address for women
+- maid
+    - the maid is washing clothers
+    - send the maid away
+- mainland
+    - mainland China looks like a rooster
+- major
+    - the major task of students is to study
+    - he major in Chinese
+- majority
+    - the minority obeys the majority
+    - protect the interests of the majority
+- male
+    - gitve birth to male infant
+- mankind
+    - a new age for mankind
+    - for the benefit of all mankind
+- manner
+    - his manner of talking makes us sick
+    - problems alos exist in his manner
+- maple
+    - the maple leaves have turned red
+- marble
+    - these steps are made of marble
+- marxism
+    - believe in Marxism
+- mass
+    - a mass of paper on his desk
+    - I've got masses of work to do
+- material
+    - teaching material
+- mature
+    - be mature and stop acting like a child
+- maximum
+    - the maximum amount of credit
+- means
+    - the means of escape
+- meanwhile
+    - meanwhile, you need more rest
+- measure
+    - measure the distance between the two points
+    - measure her hegight with a ruler
+- medium
+    - a man of medium height
+- memorial
+    - we visited the war memorial
+- merchant
+    - British merchant ship carring opium
+- mercy
+    - in one's mercy
+- merely
+    - it is merely a matter of time
+- midday
+    - the sun is strongest at midday
+- mild
+    - a mild climate
+    - he is mild of manner
+- millionaire
+    - be a millionaire after winning lottery
+- mineral
+    - coal is a mineral
+- minimum
+    - cut the cost to its minimum
+- minister
+    - Minister of Education
+- ministry
+    - Ministry of National Defense
+- minority
+    - the minority obeys the majority
+    - only a minority voted for the plan
+- missile
+    - the plane was shot down in error by a missile. 
+- mist
+    - the mist covered mountains
+    - the sunlight pierces the heavy mist
+- misunderstand
+    - you misunderstand me
+    - misunderstand one's intention
+- modest
+    - be modest in learning
+    - we must remian modests
+- monument
+    - Monument to the People's Heroes
+- mood
+    - I'm in no mood to attend the party
+- mop
+    - a floor mop
+    - mop tears from her face
+- moral
+    - traditional moral values
+- moslem
+    - he is a Moslem
+- mosquito
+    - be communicated by mosquitoes
+- motivation
+    - her motivation is making money
+    - lack the motivation to study
+- motto
+    - 'Think before you act' is my motto
+- mountianous
+    - He lives in a mountainous district
+- mourn
+    - mourn for the fallen heroes in the war
+- moustache
+    - he wore a full mounstache
+- movement
+    - the May 4th Movement
+- multiply
+    - smoking multiplies the risk of cancer
+- musemum
+    - visit a science musemum
+- mushroom
+    - pick mushrooms in forest
+- necklace
+    - wear a diamond necklace around the neck
+- needle
+    - a needle and thread
+    - a needle in a haystack
+- negotiate
+    - negotiate with terrorists
+- nephew
+    - my brother's son is my  nephew
+- nevertheless
+    - she was tired, nevertheless she kept on working
+- niece
+    - my brother's daugther is my niece
+- noble
+    - unselfish devotion is noble
+    - it is noble to help person in need
+- nuclear
+    - nuclear weapons
+    - nuclear power station
+- numb
+    - the cold wind made my fingers numb
+- obey
+    - obey the law
+- obtain
+    - obtain a medical certificate
+- obvious
+    - black words on the white paper are obvious
+    - the answer is obvious
+- occupation
+    - fill in your occupation on the form
+- occupy
+    - occupy an important position
+    - last weekend I occupy myself with reading
+- occur
+    - something unexpected occurred
+    - I don't want such a thing to occur again
+- oceania
+    - Australia is in Oceania
+- offence
+    - no offence, but you speak too loudly
+- offense
+    - commit an offense against the law
+- official
+    - visit the official website
+- oilfield
+    - oilfield produces oil
+- onto
+    - move the books onto the desk
+- opera
+    - Peking Opera
+- operate
+    - operate a machine
+- opinion
+    - I'm quite of your opinion
+- oppose
+    - I oppose you
+    - oppose racial prejudice
+- opposite
+    - walk to the opposite street
+- optimistic
+    - be optimistic about life
+- ordinary
+    - ordinary people
+- organ
+    - the nose is an organ of smell
+    - play a beautiful tune on the organ
+- organise
+    - organise activities
+- orbit
+    - the rocket ment into orbit
+- outcome
+    - the outcome was unexpected
+- outspoken
+    - he is outspoken and fearless
+- outstaning
+    - make outstanding achievement
+    - have some outstanding features
+- outward
+    - the outward appearance of the building
+- owe
+    - owe money
+    - I owe you a big favor
+- ownership
+    - house ownership
+- oxygen
+    - people need oxygen to breathe
+- pace
+    - run at a lightning pace
+- paddle
+    - a boat has two paddles
+    - paddle through the river
+- pain
+    - know the pain of war
+- painful
+    - the wound was painful
+    - bring back painful memories
+- paperwork
+    - a secretary does the paperwork
+- parcel
+    - your parcel has been delivered
+    - take the parcel to the post office
+- participate
+    - we encourage students to participate fully in the running of the college
+- particular
+    - have no particular hobby
+    - he is a particular friend of mine
+- partly
+    - it is partly cloudy
+    - this is partly a political question
+- passer-by
+    - ask a passer-by for directions
+- passion
+    - have passion for life
+    - him passion for me has cooled down
+- passive
+    - take a passive attitude
+    - play a passive role
+- patience
+    - lack patience
+    - impress customers with great patience
+- pattern
+    - break the normal thought pattern
+    - design a pattern
+- pause
+    - pause the video
+- pavement
+    - don't park in the pavement
+- pea
+    - The Princess And The Pea
+- peanut
+    - the peanut is not a nut, but a pea
+- peasant
+    - peasant grow crops
+- pedestrian
+    - pedestrian crossing
+- pension
+    - the country provides a pension for the old
+- performer
+    - an opear performer
+- perfume
+    - roses perfumed the air
+    - spary perfume into the air
+- permanent
+    - cause permanent damage to
+    - a permanent address
+- permit
+    - permit me to introduce myself
+    - apply for a work permit
+- personnel
+    - medical personnel
+- persuade
+    - persuade him to join our club
+    - persuade him out of his plans
+- pessimist
+    - nothing seems possible to a pessimist
+- pessimistic
+    - a pessimistic mood
+    - there is no reason to be pessimistic about the future
+- pest
+    - cockroaches are one of the four pest
+- petrol
+    - the petrol ran out halfway
+    - smoking is prohibited in petrol stations
+- phenomenon
+    - thunder is a natural phenomenon
+- phrase
+    - a phrase book
+    - famous phrase
+- physical
+    - physical ans mental health
+    - the physical world
+- physician
+    - consult his physician about the health
+- physicist
+    - Newton was a physicist
+- pianist
+    - Beethoven is a pianisr
+- pile
+    - his plate was piled high wiht rice
+- pillow
+    - I felt asleep as soon as I touched the pillow
+- pin
+    - stick the balloon with a pin
+    - please pin all the material together
+- pine
+    - there is an old pine tree in front of the house
+- pipe
+    - water flows from the pipe
+- pity
+    - I helped the old man out of pity
+- plot
+    - detective stories have complicated plots
+- plough
+    - four animals are pulling the plough
+- plow
+    - plow the land
+    - plow through harship
+- plug
+    - keep plugs away from children
+- poison
+    - rat poison
+    - poison the children's pure minds
+- pole
+    - a red flag rose slowly along the pole
+- polish
+    - polish your shoes with a brush
+- political
+    - political event
+    - political skill
+- politician
+    - a clever politician
+- politics
+    - go in for politics
+    - politics is a required course at university
+- poll
+    - a poll to elect the president
+- portable
+    - protable phones are very popular nowadays
+- porter
+    - the hotel porter will help you
+- portrait
+    - a family portrait
+- positive
+    - take a positive attitude to life
+- possession
+    - the possession of a degree
+    - illegal possession
+- possibility
+    - predict the future possibility
+    - a theoretical possibility
+- possibly
+    - bad living habits possibly cause serious illness
+- postage
+    - there is a postage charge for express delivery
+- postcode
+    - each area has a different postcode
+- poster
+    - film poster
+- postpone
+    - postpone the sports meet because of the rain
+- potential
+    - human potential is limitless
+    - potential consumers
+- premier
+    - our beloved Premier Zhou
+- perparation
+    - make a full preparation for the exam
+- prescription
+    - this is a prescription medicine
+- presentation
+    - make a slide presentation
+    - presentation is important for products
+- preserve
+    - fridges halp to preserve food
+    - preserve Chinese traditions
+- pressure
+    - air pressure
+    - reduce work pressure
+- pretend
+    - pretend to understand
+- pride
+    - pride goes before a fall
+    - my teaching is my pride and jpy
+- primitive
+    - primitive society
+    - conditions at the camp are very primitive
+- privilege
+    - no one has special privileges
+- procedure
+    - follow legal procedures
+    - you must follow correct procedure at all times
+- profession
+    - he is a teacher bt profession
+- profit
+    - a gross profit
+    - a net profit
+- prohibit
+    - smoking is prohibited here
+- promote
+    - promote economic growth
+    - conversation can promote motual understanding
+- protention
+    - environmental protection
+- psychology
+    - psychology is the scientific stufy of human mind
+- pub
+    - a theme pub
+- pulse
+    - take one's pulse
+- pump
+    - balloon pump
+- punctual
+    - be punctual for an appointment
+- punctuation
+    - his poor grammar and punctuation
+    - punctuation character
+- purchase
+    - purchase a house
+    - make a purchase online
+- quake
+    - the earth suddenly quake
+- qualification
+    - hold a professional qualification
+- quantity
+    - guarantee both qualitu and quantity
+- quarrel
+    - have a quarrel about money
+    - quarrel about the little things
+- questionnaire
+    - fill in the questionnaire
+- quit
+    - quit school
+    - quit office
+- racial
+    - racial discrimination
+    - racial equality
+- radiation
+    - nuclear rediation
+    - solar rediation
+- radioactive
+    - radioactive materials
+- rag
+    - clean a table with a rag
+- rail
+    - trains run on the rails
+- rainfall
+    - rainfall is higj in summer
+    - rainfall is plentful in the area
+- rare
+    - protect rare animals and plants
+- ray
+    - the direct ray of light
+- razor
+    - a razor is a must for men
+    - shave face with a razor
+- react
+    - react to the rumor
+- reality
+    - don't escape from reality
+    - reality is cruel
+- realize
+    - realize the value of life
+- rebuild
+    - rebuild the city after an earthquake
+    - work hard together to rebuild the economy
+- receipt
+    - make out a receipt
+    - the receipt have increased since last year
+- reception
+    - sign in at the reception desk
+- receptionist
+    - a hotel receptionist
+- recognise
+    - recognise and old friend
+    - I recognised her by her red hat
+- recommend
+    - recommend a good book
+- reconstruction
+    - reconstruction of  a city
+    - full-scale reconstruction is under way
+- recreation
+    - recreation is  a part of life
+- recycle
+    - recycle plastic bottles
+    - the recycle of waste materials
+- referee
+    - the referee blew his whistle
+- reflect
+    - reflect his lazy attitude
+    - reflect the human nature
+- reform
+    - reform and opening-up
+- refresh
+    - a sound sleep refreshed me
+    - refresh myself with a cup of coffee
+- regardless
+    - regardless of the consequences
+    - regardless of any difficulties
+- regular
+    - have regular checks
+- regulation
+    - observe traffic regulations
+    - school regulation
+- reject
+    - children should reject candy from strangers
+- relate
+    - relate theory with practice
+- relay
+    - take part in a relay race
+- relevant
+    - relevant experience
+    - consider relevant experience
+- reliable
+    - a reliable channel of information
+- relief
+    - I breathed a sign of relief
+- religion
+    - freedom of religion
+- religious
+    - religious belief
+- rely
+    - babies rely on others for food
+    - rely on one's own errorts
+- remote
+    - one of the remotest areas of the world
+    - a remote man
+- rent
+    - rent an apartment
+- represent
+    - the moon represents my heart
+- representative
+    - vote for him as the representative
+    - a national representative
+- republic
+    - the People's Republic of China
+- reputation
+    - it's an injury to my reputation
+    - recover one's reputation
+- requirement
+    - full meet your requirement
+    - the basic requirements of life
+- rescue
+    - fireman rescue people from fire
+- resemble
+    - resemble his father in appearance
+    - resemble his mother in character
+- reservation
+    - make hotel reservations
+- resign
+    - resign from the company
+- resist
+    - resist foreign invasions
+    - resist the temptation pf dessert
+- respect
+    - respect the old and cherish the young
+- respond
+    - I greeted him, but he didn't respond
+- responsibility
+    - assume responsibility for sth
+    - throw responsibility on him
+- responsibly
+    - do my job responsibly
+- restore
+    - restore one's confidence
+- restriction
+    - legal restriction
+    - no restriction on the number of people
+- retell
+    - retell the story in English
+- revise
+    - revise the terms of the contract
+- revision
+    - do revision for the examination
+- revolution
+    - a poineer of the revolution
+- reward
+    - if you want to repay a beautiful person, you have to marry him
+- rewind
+    - rewind the video tape
+- rid
+    - rid myself of debts
+    - get rid of the conservative ideas
+- rigid
+    - make a rigid daily exercise schedule
+    - his face looked rigid
+- ringroad
+    - ringroad expressway
+- ripe
+    - the time is ripe
+- ripen
+    - time will soon ripen
+- roar
+    - the lion roars angrily
+- roast
+    - a delicious Beijing roast duck
+- rob
+    - robbing othera is against the law
+- roof
+    - the rain ran down from the roof
+- rot
+    - candy will rot your teeth
+- rough
+    - her skin was very rough
+- roundabout
+    - the mountain road is roundabout
+- routine
+    - break the routine
+    - make exercise a part of your daily routine
+- royal
+    - British royal family
+- rugby
+    - play rugby football for the college
+- ruin
+    - the flood ruined the crops
+    - Ruin of Yuanmingyuan
+- rural
+    - Tao Yuanming dreamed of the rural life
+- sacrifice
+    - the soldier sacrificed his life for his country
+    - sacrifice personal interests
+- salary
+    - raise his salary
+    - the company pays salaries to its employees
+- salute
+    - salute the flag
+    - dalute the people with bow
+- satellite
+    - launch a satellite into the space
+    - a weather satellite
+- satisfaction
+    - improve customer satisfaction
+    - receive satisfaction for the damage
+- saucer
+    - put the cup on the saucer
+- scar
+    - the operation may leave a scar
+    - a mental scar
+- scare
+    - the dog scared the thief away
+- sacred
+    - a sacred temple
+    - he made a sacred promise
+- scene
+    - the first scene of the play
+- scholar
+    - scholar publish papers in journals
+- scholarship
+    - motivate students with scholarships
+- scientific
+    - scientific research
+- scratch
+    - scratch the back
+- scream
+    - a scream broke the silence of the night
+    - let out a scream of pain
+- sculpture
+    - there stand two stone sculptures of lions
+- seagull
+    - a seagull files into the sky
+- seashell
+    - pick up seashells on the beach
+- seaside
+    - the weather at the seaside was fine
+- seaweed
+    - seaweed grows in the sea
+- secure
+    - the plane made a secure landing
+- security
+    - care about the national security
+    - have a sense of security
+- seek
+    - seek a familiar face
+    - seek help from one's friends
+- seize
+    - seize the moment
+- selfish
+    - selfish people think of themselves first
+- semicircle
+    - a semicircle is half of a circle
+- seminar
+    - attend a seminar
+- sensitive
+    - avoid sensitive topics
+- separation
+    - separation from each other
+    - oppose separation of the reces
+- session
+    - attend the session
+- settle
+    - eventually settle in the city
+- settlement
+    - reach a peaceful settlement
+    - sign the divorce settlement
+- settler
+    - new settlers came in increasing numbers
+- severe
+    - bring severe consequence
+    - deserve severs punishment
+- shade
+    - there is shade under the sun
+    - a new shade for the lamp
+- shallow
+    - swim in shallow water
+- sharpen
+    - sharpen a knife with a stone
+- sharpener
+    - pencil sharpener
+- shave
+    - shave my chin
+- shaver
+    - the electric shaver needs to be charged
+- shelter
+    - seek shelter
+    - put up a temporary shelter
+- shock
+    - give somebody a sudden shock
+- shortcoming
+    - expose one's shortcoming
+- shrink
+    - the sweater has shrunk
+    - shrink from danger
+- sickness
+    - recover from sickness
+- sigh
+    - sigh with relief
+    - sign away one's day
+- sightseeing
+    - signtseeing bus
+- signal
+    - a red light is a stop signal
+- signature
+    - forge his mother's signature
+- significance
+    - know the significance of your work
+    - profound significance
+- sincerely
+    - thank you sincerely for your help
+- sip
+    - sip the hot tea
+- site
+    - the site of the memorial
+- skeptical
+    - make me extremely skeptical
+- skyscraper
+    - the skyscraper soars into the sky
+- slave
+    - the slaves rose against their masters
+- slavery
+    - He struck a blow against slavery
+- slight
+    - wake up with a slight headache
+- slightly
+    - know sb alightly
+    - a slightly different opinion
+- slip
+    - the fish slipped out of my hand
+- smog
+    - heavy smog
+    - under the cover of the smog
+- sneeze
+    - pepper makes me sneeze
+- sniff
+    - I can sniff something burning
+    - he sniffed at my advice
+- sob
+    - sob out his troubles
+- soccer
+    - play soccer
+- socialism
+    - China is in the primary stage of socialism
+- socialist
+    - China is a socialist country
+- soil
+    - soil is uesd for planting
+- sorrow
+    - life has many sorrows and joys
+    - drown sorrows in wine
+- southern
+    - Hainan is  a southern province
+- souvenirs
+    - I'd like to buy some souvenirs
+- sow
+    - sow the seeds in the fields
+- spade
+    - dig a hole with a spade
+- sparrow
+    - a sparrow flew up to the branch
+- specialist
+    - Yuan Longping is a specialist on rice
+    - provide specialist guidance
+- spin
+    - English grammer makes mt head spin
+    - a spider can spin a web
+- spiritual
+    - spiritual civilization
+    - enrich the spiritual world
+- spoil
+    - parents should not spoil their children
+    - heavy rain spoilt the crops
+- spoken
+    - take a spoken test
+    - my spoken English is poor
+- spokesman
+    - foreign ministry spokesman
+    - the spokesman stated the reasons
+- sponsor
+    - programs have sponsors
+- spoonful
+    - put a spoonful of salt in the soup
+- squeeze
+    - squeeze juice out of the orange
+- squid
+    - feed mainly on fish and squid
+- squirrel
+    - squirrel eat nuts
+- staff
+    - the company has a staff of 100
+- stage
+    - perform on the stage
+    - at a new stage of development
+- stain
+    - stain one's reputation
+    - the kitchen floor was covered with stains
+- stainless
+    - the sky is pure and stainless
+- stare
+    - stare out the window
+    - stare into the distance
+- starvation
+    - suffer from startvation
+    - startvation was the cause of his death
+- starve
+    - starve to death
+    - starve  oneself to try to lose weight
+- statistics
+    - collect statistices
+- statue
+    - a bronze statue
+    - each statue looks vivid
+- steady
+    - the old man is not steady on his legs
+    - have a steady income
+- steak
+    - eat steak with a knife and fork
+- steam
+    - steam forms when water boils
+- steep
+    - a steep valley
+    - steep rise in prices
+- stepfather
+    - His stepfather used to beat him with an iron bar
+- steward
+    - show your ticket to the steward
+- stewardess
+    - show your ticket to the stewardess
+- stout
+    - he became stout as he grew older
+- straightforward
+    - a straightforward manner
+- strait
+    - pass through the strait
+- straw
+    - twist pieces of straw into a rope
+    - drink juice through a straw
+- stream
+    - step across a stream
+- strength
+    - recover my full strength
+- strengthen
+    - strangthen trade relationship
+- strike
+    - the stone stuch her on the forehead
+    - strike for higher pay
+- struggle
+    - struggle with all kinds of difficulties
+- stubborn
+    - as stubborn as a mule
+- studio
+    - record songs in the studio
+- subjunctive
+    - the verb is in the subjunctive mood
+- subscribe
+    - subscribe to a magazine
+    - he did not subscribe to my proposal
+- substance
+    - the substance of his discussions doesn't really matter
+- substitue
+    - substitue tea for wine
+    - there's no substitue for parents
+- subtraction
+    - do addition and subtraction
+- suffer
+    - men are born to suffer
+    - suffer from headaches
+- suffering
+    - his suffering aroused our sympathy
+    - suffering left its mark on his face
+- suitable
+    - choose suitable clothes
+- suitcase
+    - suitcase is uesd to hold suitcase
+- suite
+    - a private suite
+    - the suite is for the honeymoon couple
+- summary
+    - make a summary of the main idea of the article
+- sunburnt
+    - sunburnt skin
+- sunlight
+    - sublight came in through the window
+    - be bathed in bright sunlight
+- superb
+    - your English is certainly superb
+- superior
+    - superior status
+- suppress
+    - supress the rebellion
+- supreme
+    - the Supreme People's Court
+- surgeon
+    - the surgeon sewed up the ound
+- surround
+    - the island is surrounded by the sea
+- survival
+    - fight for survival
+    - the survival of the fittest
+- suspect
+    - I suspect you're cheating me
+- suspension
+    - suspension from school caused by cheating
+- swallow
+    - chew carefully and swallow slowly
+    - swallow one's dinner
+- swap
+    - swap secrets
+- swell
+    - sails swell out in the world
+    - the injured ankle began to swell
+- swift
+    - a swift respond to message
+- swiss
+    - this is my watch, it's a Swiss one
+- sword
+    - the Internet is a double-edged sword
+- sympathy
+    - express sympathy for thar poor man
+- symphony
+    - Symphony of Fate
+- symptom
+    - fever is a symptom of illness
+- systematic
+    - systematic training
+    - the systematic examination of data
+- tablet
+    - take the tablet with water before meals
+    - take one tablet every four hours
+- tailor
+    - tailor make clothes
+- talent
+    - show a talent for music
+- tank
+    - army tank
+- target
+    - set yourself a target
+- tasteless
+    - water is tasteless
+- tax
+    - individual income tax
+- taxpayer
+    - taxpayer pay taxes
+- teamwork
+    - a team match requires teamwork
+- tease
+    - it is rude to tease others
+- technical
+    - technical training
+- technique
+    - modern medical techniques
+- teenager
+    - teenagers are people between the age 13 and 19
+- telegraph
+    - telegraph office
+- temporary
+    - a temporary office
+- thus
+    - he exercises everyday, thus can lose his weight
+- tibetan
+    - he is a native Tibetan
+- tight
+    - pull the thread tight
+- tip
+    - the tips of your fingers
+    - it's on the tip of my tongue
+- tiresome
+    - doing the same job every day is tiresome
+- tissue
+    - brain tissue
+    - a box of tissures
+- tobacco
+    - forbid sb tobacco
+- tolerate
+    - tolerate one's bad manners
+- tomb
+    - sweep tombs in Qingming Festival
+- topic
+    - weibo is full of hot topic
+- torch
+    - a Olympic torch
+- tortoise
+    - run like a tortoise
+- tough
+    - a tough decision
+- tournament
+    - an international tennis tournament
+- trace
+    - leave no trace of having been there
+- track
+    - a running track
+- tractor
+    - drive a tractor
+- tram
+    - go by tram
+- transport
+    - transport the coal by the train
+- transportation
+    - block transportion
+    - a safe means of transportion
+- trap
+    - the hunter set a trap
+- tremble
+    - my legs were trembling woth fear
+- trend
+    - reverse the trend
+- trial
+    - be on trial for murder
+- tribe
+    - there are many tribes in Arica
+- trolleybus
+    - go by trolleybus
+- troop
+    - surround the hill with troops
+    - a troop of visits
+- troublesome
+    - it is a a troublesome question
+- truly
+    - truly understand
+- trunk
+    - the trunk is bare in winter
+- tube
+    - steel tube
+- tune
+    - every song has a tune
+    - sing out of tune
+- tutor
+    - assistant tutor
+    - tutor for three hours
+- twist
+    - twist the arms behind the back
+- typewritter
+    - he typewritter at home to gain the pin moey
+- typical
+    - a typical example
+- typist
+    - a typist types quickly
+- tyre
+    - spare tyre
+    - pump up tyre
+- unbearable
+    - unbearable physical pain
+- unconscious
+    - he drank himself unconscious
+- undertake
+    - undertake responsibility for the changes
+- underwear
+    - underwear can't be returned once sold
+- undivided
+    - he has my undivided loyalty
+- undo
+    - undo a package
+- unemployment
+    - rising unemployment is a political time bomb for the government
+- unexpected
+    - an unexpected outcome
+    - receive an unexpected gift
+- unforgettable
+    - the opening ceremony was unforgettable
+    - the trip was unforgettable experience for us
+- unfortunate
+    - an unfortunate consequence
+- unique
+    - everyone is unique
+- unite
+    - unite against the enemy
+- united
+    - the United Nations
+- universal
+    - a universal phenomenon
+- unpack
+    - please unpack package for inspection
+- unrest
+    - there is growing unrest in the country
+- unwilling
+    - be unwilling to take on responsibilities
+- upper
+    - the upper rank
+- upward
+    - the balloon rose upward
+- urban
+    - housing is a major urban problem
+- urge
+    - teachers urge student to study
+- urgent
+    - an urgent whisper
+    - an urgent need for food and water
+- vacant
+    - leave vacant seats for old people
+- vague
+    - memories of childhood are vague
+- vain
+    - a vain attempt
+- valley
+    - the village is further up the valley
+- variety
+    - sell a wode variety of goods
+- vartious
+    - various objects were on the table
+- vary
+    - vary in quality
+- vast
+    - China has a vast land
+- veal
+    - cut the veal into pieces
+- venue
+    - a training venue
+- verb
+    - 'run' is a verb
+- vertical
+    - be vertical to the ground
+- via
+    - the news reached me via my friend
+- vice
+    - get rid of  a vice
+- villager
+    - villager live in the village
+- violate
+    - violate the traffic regulations
+- violence
+    - violence does not solve problems
+- violent
+    - a violent storm
+- violinist
+    - a famous violinist
+- virtue
+    - helping the old is a traditional Chinese virture
+- virus
+    - the flu virus spreads easily in winter
+- visa
+    - to go abroad needs a visa
+- vital
+    - provide vital evidence
+    - reading is of vital importance in language learing
+- vivid
+    - a vivid description of the event
+- vocabulary
+    - reading increases vocabulary
+- volcano
+    - an active volcano
+- voluntary
+    - offer voluntary servises
+- vote
+    - citizens have the right to vote
+- voyage
+    - life is compared to a voyage
+- wag
+    - the dog wagged his tail for joy
+- wage
+    - reise one's wage
+- waist
+    - models usually have slim waists
+- walnut
+    - I can't break the walnut
+- wander
+    - wander in the park after dinner
+- warehouse
+    - the warehouse has been badly damaged by fire
+- warmth
+    - the sun brings warnth
+- wax
+    - treat the leather with wax
+- weekly
+    - read the weekly newspaper
+- weep
+    - weep with tear of joy
+- weigh
+    - how much do you weigh
+- welfare
+    - a welfare organization
+- westward
+    - the road ranges wastward from the lake
+- whisper
+    - whisper the message to sb
+- widespread
+    - the typhoon caused widespread damage
+- wild
+    - wild horse
+- wildlife
+    - wildlife park
+- wipe
+    - wipe away he tears
+- wire
+    - the wire conducts electricity
+- wisdom
+    - he was a man of wisdom
+- witchcraft
+    - a woman practising witchcraft
+- withdraw
+    - the troops withdrew to safety
+- within
+    - within eyesight
+- witness
+    - appear in court as a witness
+- wool
+    - a wool coat
+- woolen
+    - wear a woolen sweater
+- worldwide
+    - ba famous worldwide
+- worm
+    - feed the worm to birds
+- worn
+    - worn out
+- worthwhile
+    - it's worthwhile to do anything for you
+- worthy
+    - be worthy of mention
+- wrestle
+    - wrestle the opponent to the ground
+- wrestling
+    - he enjoys going to wrestling bouts
+- wrinkle
+    - wrinkles deepen with age
+- wrist
+    - wear a watch on the wrist
+- yawn
+    - stretch oneself and yawn
+- zone
+    - smokeless zone
